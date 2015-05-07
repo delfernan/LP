@@ -54,7 +54,7 @@ private:
    */
   QString qsDataFilePlayer_;
   /**
-   * @brief iSelectedTeam Selected team
+   * @brief iSelectedTeam_ Selected team
    */
   size_t iSelectedTeam_;
   /**
@@ -77,7 +77,6 @@ private:
   void cleanPlayerList();
   /**
    * @brief savePlayers save players to the selected team
-   * @param iSelectedTeam team to save
    */
   void savePlayers();
   /**
