@@ -1,0 +1,10 @@
+<map id="Player::toStd" name="Player::toStd">
+<area shape="rect" id="node3" href="$class_team.html#a1030dce9ad53dc47351a3fa44980b77b" title="Team::toStd" alt="" coords="152,107,245,133"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a540e4aee5c7b6d5e8c3d12cd6a1e1329" title="Function slot to load data from memory to the user interfaz. " alt="" coords="293,107,443,133"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a671e7e5b0a3a7a3fb1cf44c5c8377952" title="Init. " alt="" coords="515,5,637,32"/>
+<area shape="rect" id="node11" href="$class_main_window.html#a7b8cd49500ffd80cb3c666750c658f5d" title="Delete selected item... " alt="" coords="491,56,661,83"/>
+<area shape="rect" id="node13" href="$class_main_window.html#ade64c249edd6ebfab4fc83dbd7d7b334" title="Open dialog in order to add new teams. " alt="" coords="497,107,655,133"/>
+<area shape="rect" id="node15" href="$class_main_window.html#a637b22ad7b085a1664384ea3ab8084cd" title="Edit selected item... " alt="" coords="497,157,655,184"/>
+<area shape="rect" id="node17" href="$class_main_window.html#aa615547c7691d9733f57c1b8a71722f0" title="Function slot to sort teams by points. " alt="" coords="503,208,649,235"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow constructor. " alt="" coords="709,5,888,32"/>
+</map>

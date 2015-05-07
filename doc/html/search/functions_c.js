@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['savefile',['saveFile',['../class_main_window.html#a464aaa4d378e7b2d814756a73d6e1ed6',1,'MainWindow']]],
+  ['searchelename',['searchEleName',['../class_list.html#aa614a359e8399195c71d14067484d3b2',1,'List']]],
+  ['searchpos',['searchPos',['../class_list.html#a69893c5ca361f9502a0dc1c967612d02',1,'List']]],
+  ['searchteam',['searchTeam',['../class_main_window.html#a963edb5b19f8d39b0c5bbacc0d9ed5d6',1,'MainWindow']]],
+  ['setderrotas',['setDerrotas',['../class_team.html#a0e8272a4c5127fcd4be5444dd22cda9f',1,'Team']]],
+  ['setempates',['setEmpates',['../class_team.html#a9dfa2c82540d9321e6cafb6acded557f',1,'Team']]],
+  ['setgoleador',['setGoleador',['../class_team.html#ae0b109fcefb1673d19498fc626021f88',1,'Team']]],
+  ['setgolesafavor',['setGolesAFavor',['../class_team.html#af21b432f707a656148c6626f105a93cc',1,'Team']]],
+  ['setgolesencontra',['setGolesEnContra',['../class_team.html#a68c254ae21bea1353f5398b9858e7ff6',1,'Team']]],
+  ['setlist',['setList',['../class_dialog.html#a49ad60e52f0e52fa4ec27b67964913fa',1,'Dialog']]],
+  ['setmode',['setMode',['../class_dialog.html#adc05cff2da1c925917d2301d730eebd8',1,'Dialog']]],
+  ['setngoles',['setNGoles',['../class_player.html#aeaa23561cac2c75d1f3cad94915f0835',1,'Player']]],
+  ['setnode',['setNode',['../class_dialog.html#a3fe34fdf51dce326e10b7b2eef8ae6ea',1,'Dialog']]],
+  ['setnombre',['setNombre',['../class_player.html#a9502f0f318d1e88e978e182b3a4cb741',1,'Player::setNombre()'],['../class_team.html#a870c452a397d56e714b66c6a556fe8c1',1,'Team::setNombre()']]],
+  ['setupui',['setupUi',['../class_ui___dialog.html#a4f6a478c3ecdafabffb17b39cb26444a',1,'Ui_Dialog::setupUi()'],['../class_ui___main_window.html#acf4a0872c4c77d8f43a2ec66ed849b58',1,'Ui_MainWindow::setupUi()']]],
+  ['setvictorias',['setVictorias',['../class_team.html#a43b0095989199cafdbdb1cf87a2eba2f',1,'Team']]],
+  ['sort',['sort',['../class_list.html#adcdf869b2506e2332052eff47afc8412',1,'List']]],
+  ['sortlist',['sortList',['../class_main_window.html#aa615547c7691d9733f57c1b8a71722f0',1,'MainWindow']]]
+];

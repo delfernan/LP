@@ -1,0 +1,11 @@
+<map id="MainWindow::deleteTeam" name="MainWindow::deleteTeam">
+<area shape="rect" id="node3" href="$class_main_window.html#a9474f6768838e45603392694ae2c3913" title="MainWindow::msgUser" alt="" coords="225,5,381,32"/>
+<area shape="rect" id="node5" href="$class_list.html#a7b33f41a6fd235d8e4e61e3aa7ffad71" title="List::erase" alt="" coords="261,56,344,83"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a540e4aee5c7b6d5e8c3d12cd6a1e1329" title="Function slot to load data from memory to the user interfaz. " alt="" coords="228,107,377,133"/>
+<area shape="rect" id="node9" href="$class_list.html#a73f8b1d313382daffeeeed552f42da2f" title="List::isEmpty" alt="" coords="437,31,536,57"/>
+<area shape="rect" id="node11" href="$class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf" title="List::length" alt="" coords="443,81,530,108"/>
+<area shape="rect" id="node13" href="$class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="430,132,543,159"/>
+<area shape="rect" id="node15" href="$class_team.html#a1030dce9ad53dc47351a3fa44980b77b" title="Team::toStd" alt="" coords="440,183,533,209"/>
+<area shape="rect" id="node17" href="$class_team.html#aaca5bb9a0ce8a775d590d297c772d3bd" title="Team::calculaPuntos" alt="" coords="592,157,736,184"/>
+<area shape="rect" id="node19" href="$class_player.html#a6d3beea7580a4b7b4c8b80feac3351d3" title="Player::toStd" alt="" coords="615,208,713,235"/>
+</map>

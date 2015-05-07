@@ -1,0 +1,10 @@
+<map id="MainWindow::init" name="MainWindow::init">
+<area shape="rect" id="node3" href="$class_list.html#a6c9ca1988da106b2b43669857043fdd5" title="List::readFromFile" alt="" coords="187,31,314,57"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a540e4aee5c7b6d5e8c3d12cd6a1e1329" title="Function slot to load data from memory to the user interfaz. " alt="" coords="176,81,325,108"/>
+<area shape="rect" id="node7" href="$class_list.html#a73f8b1d313382daffeeeed552f42da2f" title="List::isEmpty" alt="" coords="381,5,480,32"/>
+<area shape="rect" id="node9" href="$class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf" title="List::length" alt="" coords="387,56,474,83"/>
+<area shape="rect" id="node11" href="$class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="374,107,487,133"/>
+<area shape="rect" id="node13" href="$class_team.html#a1030dce9ad53dc47351a3fa44980b77b" title="Team::toStd" alt="" coords="384,157,477,184"/>
+<area shape="rect" id="node15" href="$class_team.html#aaca5bb9a0ce8a775d590d297c772d3bd" title="Team::calculaPuntos" alt="" coords="536,132,680,159"/>
+<area shape="rect" id="node17" href="$class_player.html#a6d3beea7580a4b7b4c8b80feac3351d3" title="Player::toStd" alt="" coords="559,183,657,209"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MainWindow::msgUser" name="MainWindow::msgUser">
+<area shape="rect" id="node3" href="$class_main_window.html#a288b768c3c21a9171bdc56fe845ece8b" title="Open file slot function. " alt="" coords="219,5,373,32"/>
+<area shape="rect" id="node5" href="$class_main_window.html#a464aaa4d378e7b2d814756a73d6e1ed6" title="Save as... " alt="" coords="221,56,371,83"/>
+<area shape="rect" id="node7" href="$class_main_window.html#a7b8cd49500ffd80cb3c666750c658f5d" title="Delete selected item... " alt="" coords="211,107,381,133"/>
+<area shape="rect" id="node9" href="$class_main_window.html#a637b22ad7b085a1664384ea3ab8084cd" title="Edit selected item... " alt="" coords="217,157,375,184"/>
+</map>
