@@ -13,8 +13,25 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        dialog.cpp
+        dialog.cpp \
+    dialog2.cpp \
+    list.cpp \
+    mainwindow.cpp \
+    node.cpp \
+    player.cpp \
+    team.cpp
 
-HEADERS  += dialog.h
+HEADERS  += dialog.h \
+    dialog2.h \
+    list.h \
+    mainwindow.h \
+    node.h \
+    player.h \
+    team.h
 
-FORMS    += dialog.ui
+FORMS    += dialog.ui \
+    dialog2.ui \
+    mainwindow.ui
+
+DISTFILES += \
+    Doxyfile
