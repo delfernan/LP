@@ -1,0 +1,8 @@
+<map id="Dialog2::callFunctionPlayer" name="Dialog2::callFunctionPlayer">
+<area shape="rect" id="node3" href="$d1/d34/class_list.html#aa641ba4a8f1792780ae0dc7cd506aeb6" title="List::insertSorted" alt="" coords="263,5,385,32"/>
+<area shape="rect" id="node5" href="$d1/d34/class_list.html#a0a155d92947a2d58f1476658d22fd4c2" title="List::modify" alt="" coords="279,56,369,83"/>
+<area shape="rect" id="node7" href="$d8/dad/class_dialog2.html#af42c743a70fb796d4fafd0e55cff004a" title="Dialog2::msgUser" alt="" coords="261,107,387,133"/>
+<area shape="rect" id="node9" href="$d8/dad/class_dialog2.html#a7d1f42eb6a8798be34da38e4df4929f7" title="Dialog2::takePlayerFromUi" alt="" coords="235,157,413,184"/>
+<area shape="rect" id="node11" href="$d8/d53/class_player.html#a3c26ab31dffaf71b9775459ae00e1735" title="Player::setNombre" alt="" coords="461,132,592,159"/>
+<area shape="rect" id="node13" href="$d8/d53/class_player.html#aeaa23561cac2c75d1f3cad94915f0835" title="Player::setNGoles" alt="" coords="463,183,591,209"/>
+</map>

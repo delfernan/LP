@@ -1,0 +1,7 @@
+<map id="Dialog2" name="Dialog2">
+<area shape="rect" id="node4" href="$d1/d34/class_list.html" title="{List\&lt; Player \&gt;\n|&#45; lon_\l|+ List()\l+ ~List()\l+ isEmpty()\l+ length()\l+ insertAfter()\l+ insert()\l+ searchPos()\l+ modify()\l+ erase()\l+ copy()\land 12 more...\l&#45; init()\l}" alt="" coords="145,798,252,1037"/>
+<area shape="rect" id="node6" href="$dc/d8f/class_node.html" title="{Node\&lt; Player \&gt;\n||+ Node()\l+ Node()\l+ ~Node()\l}" alt="" coords="58,553,171,660"/>
+<area shape="rect" id="node8" href="$dc/d8f/class_node.html" title="{Node\&lt; T \&gt;\n||+ Node()\l+ Node()\l+ ~Node()\l}" alt="" coords="5,228,88,335"/>
+<area shape="rect" id="node13" href="$d8/d53/class_player.html" title="{Player\n|&#45; nombre\l&#45; nGoles\l|+ Player()\l+ ~Player()\l+ getNombre()\l+ setNombre()\l+ getNGoles()\l+ setNGoles()\l+ readFromFile()\l+ writeToFile()\l+ readFromBinaryFile()\l+ writeToBinaryFile()\l+ toStd()\l+ compareName()\l+ comparePoints()\l}" alt="" coords="173,147,328,415"/>
+<area shape="rect" id="node16" href="$d1/d34/class_list.html" title="{List\&lt; T \&gt;\n|&#45; liga_\l&#45; lon_\l|+ List()\l+ ~List()\l+ isEmpty()\l+ length()\l+ insertAfter()\l+ insert()\l+ searchPos()\l+ modify()\l+ erase()\l+ copy()\land 12 more...\l&#45; init()\l}" alt="" coords="196,480,303,733"/>
+</map>

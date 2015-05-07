@@ -1,0 +1,6 @@
+<map id="MainWindow::saveAll" name="MainWindow::saveAll">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#ade64c249edd6ebfab4fc83dbd7d7b334" title="addTeam Open dialog in order to add new teams " alt="" coords="209,5,367,32"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a7b8cd49500ffd80cb3c666750c658f5d" title="deleteTeam Delete selected item... " alt="" coords="203,56,373,83"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a637b22ad7b085a1664384ea3ab8084cd" title="editTeam Edit the selected team " alt="" coords="209,107,367,133"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a963edb5b19f8d39b0c5bbacc0d9ed5d6" title="searchTeam Search some item " alt="" coords="201,157,375,184"/>
+</map>

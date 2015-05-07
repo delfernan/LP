@@ -1,0 +1,407 @@
+\hypertarget{class_dialog}{}\section{Dialog Class Reference}
+\label{class_dialog}\index{Dialog@{Dialog}}
+
+
+{\ttfamily \#include $<$dialog.\+h$>$}
+
+
+
+Inheritance diagram for Dialog\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=184pt]{d0/d57/class_dialog__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for Dialog\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[height=550pt]{d6/d66/class_dialog__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Types}
+\begin{DoxyCompactItemize}
+\item 
+enum \hyperlink{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0}{E\+T\+Mode} \{ \hyperlink{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0a382169df655aea6ae97508c2cbba7d3e}{A\+D\+D}, 
+\hyperlink{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0a89d44aa4439f5e2be5a9e99935813385}{E\+D\+I\+T}, 
+\hyperlink{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0a3ee13ecddf383e1872ad53f5f1947ef1}{S\+E\+A\+R\+C\+H}
+ \}
+\end{DoxyCompactItemize}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_dialog_acfa2063f9f962d394c6a645b6e7e08d8}{Dialog} (Q\+Widget $\ast$parent=0)
+\item 
+\hyperlink{class_dialog_a2a1fe6ef28513eed13bfcd3a4da83ccb}{$\sim$\+Dialog} ()
+\item 
+void \hyperlink{class_dialog_adc05cff2da1c925917d2301d730eebd8}{set\+Mode} (\hyperlink{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0}{E\+T\+Mode} pe\+Mode)
+\item 
+void \hyperlink{class_dialog_a49ad60e52f0e52fa4ec27b67964913fa}{set\+List} (\hyperlink{class_list}{List}$<$ \hyperlink{class_team}{Team} $>$ \&pliga)
+\item 
+void \hyperlink{class_dialog_a3fe34fdf51dce326e10b7b2eef8ae6ea}{set\+Node} (size\+\_\+t i\+Pos)
+\item 
+void \hyperlink{class_dialog_ad8dc7674caf8ad80354371cb055e2d86}{set\+Id} (size\+\_\+t p\+Id)
+\end{DoxyCompactItemize}
+\subsection*{Private Slots}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{class_dialog_a1875941a0c922fa231c8c40d3c46a481}{call\+Function\+Team} ()
+\item 
+void \hyperlink{class_dialog_af320e47136611f472953f85ec66f6bf6}{clear\+All} ()
+\item 
+void \hyperlink{class_dialog_a14e25a37abc03cea2b0aaf7dc91fe857}{search\+Team} ()
+\end{DoxyCompactItemize}
+\subsection*{Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{class_dialog_a6f6564b3dab010fadb064d1bb46ac37c}{load\+Team} ()
+\item 
+void \hyperlink{class_dialog_a29ddbbd67ffdca68c35bd2692deef08b}{msg\+User} (const Q\+String title, const Q\+String message)
+\item 
+void \hyperlink{class_dialog_a03a550e5b4fa16614d27f8d4e2329e10}{take\+Team\+From\+Ui} (\hyperlink{class_team}{Team} \&p\+Team)
+\end{DoxyCompactItemize}
+\subsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+Ui\+::\+Dialog $\ast$ \hyperlink{class_dialog_aaa4b5bfb9a0f64900d524f14bc32e6df}{ui}
+\item 
+\hyperlink{class_list}{List}$<$ \hyperlink{class_team}{Team} $>$ $\ast$ \hyperlink{class_dialog_a91cdee063ecd915858353d07f2e50eb2}{liga\+\_\+}
+\item 
+size\+\_\+t \hyperlink{class_dialog_a77bd4ac2499af67029f8f00d682ffde9}{i\+Node\+To\+Edit\+\_\+}
+\item 
+\hyperlink{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0}{E\+T\+Mode} \hyperlink{class_dialog_a99d3ef596f183ccf2d69c3b465989102}{e\+Mode\+\_\+}
+\item 
+int \hyperlink{class_dialog_af05db46d671e032a4e51e4068f32fb06}{id\+Team\+\_\+}
+\end{DoxyCompactItemize}
+
+
+\subsection{Member Enumeration Documentation}
+\hypertarget{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0}{}\index{Dialog@{Dialog}!E\+T\+Mode@{E\+T\+Mode}}
+\index{E\+T\+Mode@{E\+T\+Mode}!Dialog@{Dialog}}
+\subsubsection[{E\+T\+Mode}]{\setlength{\rightskip}{0pt plus 5cm}enum {\bf Dialog\+::\+E\+T\+Mode}}\label{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0}
+\begin{Desc}
+\item[Enumerator]\par
+\begin{description}
+\index{A\+D\+D@{A\+D\+D}!Dialog@{Dialog}}\index{Dialog@{Dialog}!A\+D\+D@{A\+D\+D}}\item[{\em 
+\hypertarget{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0a382169df655aea6ae97508c2cbba7d3e}{}A\+D\+D\label{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0a382169df655aea6ae97508c2cbba7d3e}
+}]\index{E\+D\+I\+T@{E\+D\+I\+T}!Dialog@{Dialog}}\index{Dialog@{Dialog}!E\+D\+I\+T@{E\+D\+I\+T}}\item[{\em 
+\hypertarget{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0a89d44aa4439f5e2be5a9e99935813385}{}E\+D\+I\+T\label{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0a89d44aa4439f5e2be5a9e99935813385}
+}]\index{S\+E\+A\+R\+C\+H@{S\+E\+A\+R\+C\+H}!Dialog@{Dialog}}\index{Dialog@{Dialog}!S\+E\+A\+R\+C\+H@{S\+E\+A\+R\+C\+H}}\item[{\em 
+\hypertarget{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0a3ee13ecddf383e1872ad53f5f1947ef1}{}S\+E\+A\+R\+C\+H\label{class_dialog_ae78164fb050172481b9bc05bdbbdc9b0a3ee13ecddf383e1872ad53f5f1947ef1}
+}]\end{description}
+\end{Desc}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{class_dialog_acfa2063f9f962d394c6a645b6e7e08d8}{}\index{Dialog@{Dialog}!Dialog@{Dialog}}
+\index{Dialog@{Dialog}!Dialog@{Dialog}}
+\subsubsection[{Dialog}]{\setlength{\rightskip}{0pt plus 5cm}Dialog\+::\+Dialog (
+\begin{DoxyParamCaption}
+\item[{Q\+Widget $\ast$}]{parent = {\ttfamily 0}}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [explicit]}}\label{class_dialog_acfa2063f9f962d394c6a645b6e7e08d8}
+
+
+References A\+D\+D, e\+Mode\+\_\+, i\+Node\+To\+Edit\+\_\+, and ui.
+
+\hypertarget{class_dialog_a2a1fe6ef28513eed13bfcd3a4da83ccb}{}\index{Dialog@{Dialog}!````~Dialog@{$\sim$\+Dialog}}
+\index{````~Dialog@{$\sim$\+Dialog}!Dialog@{Dialog}}
+\subsubsection[{$\sim$\+Dialog}]{\setlength{\rightskip}{0pt plus 5cm}Dialog\+::$\sim$\+Dialog (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_dialog_a2a1fe6ef28513eed13bfcd3a4da83ccb}
+
+
+References ui.
+
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_dialog_a1875941a0c922fa231c8c40d3c46a481}{}\index{Dialog@{Dialog}!call\+Function\+Team@{call\+Function\+Team}}
+\index{call\+Function\+Team@{call\+Function\+Team}!Dialog@{Dialog}}
+\subsubsection[{call\+Function\+Team}]{\setlength{\rightskip}{0pt plus 5cm}void Dialog\+::call\+Function\+Team (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}, {\ttfamily [slot]}}\label{class_dialog_a1875941a0c922fa231c8c40d3c46a481}
+
+
+References i\+Node\+To\+Edit\+\_\+, List$<$ T $>$\+::insert\+Sorted(), liga\+\_\+, List$<$ T $>$\+::modify(), msg\+User(), List$<$ T $>$\+::search\+Ele\+Name(), take\+Team\+From\+Ui(), and ui.
+
+
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{df/da9/class_dialog_a1875941a0c922fa231c8c40d3c46a481_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_dialog_af320e47136611f472953f85ec66f6bf6}{}\index{Dialog@{Dialog}!clear\+All@{clear\+All}}
+\index{clear\+All@{clear\+All}!Dialog@{Dialog}}
+\subsubsection[{clear\+All}]{\setlength{\rightskip}{0pt plus 5cm}void Dialog\+::clear\+All (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}, {\ttfamily [slot]}}\label{class_dialog_af320e47136611f472953f85ec66f6bf6}
+\hypertarget{class_dialog_a6f6564b3dab010fadb064d1bb46ac37c}{}\index{Dialog@{Dialog}!load\+Team@{load\+Team}}
+\index{load\+Team@{load\+Team}!Dialog@{Dialog}}
+\subsubsection[{load\+Team}]{\setlength{\rightskip}{0pt plus 5cm}void Dialog\+::load\+Team (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{class_dialog_a6f6564b3dab010fadb064d1bb46ac37c}
+
+
+References Team\+::get\+Derrotas(), Team\+::get\+Empates(), Team\+::get\+Goles\+A\+Favor(), Team\+::get\+Goles\+En\+Contra(), Team\+::get\+Nombre(), Team\+::get\+Victorias(), i\+Node\+To\+Edit\+\_\+, liga\+\_\+, List$<$ T $>$\+::search\+Pos(), and ui.
+
+
+
+Referenced by set\+Node().
+
+
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=334pt]{df/da9/class_dialog_a6f6564b3dab010fadb064d1bb46ac37c_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{df/da9/class_dialog_a6f6564b3dab010fadb064d1bb46ac37c_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_dialog_a29ddbbd67ffdca68c35bd2692deef08b}{}\index{Dialog@{Dialog}!msg\+User@{msg\+User}}
+\index{msg\+User@{msg\+User}!Dialog@{Dialog}}
+\subsubsection[{msg\+User}]{\setlength{\rightskip}{0pt plus 5cm}void Dialog\+::msg\+User (
+\begin{DoxyParamCaption}
+\item[{const Q\+String}]{title, }
+\item[{const Q\+String}]{message}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{class_dialog_a29ddbbd67ffdca68c35bd2692deef08b}
+
+
+Referenced by call\+Function\+Team(), and search\+Team().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=332pt]{df/da9/class_dialog_a29ddbbd67ffdca68c35bd2692deef08b_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_dialog_a14e25a37abc03cea2b0aaf7dc91fe857}{}\index{Dialog@{Dialog}!search\+Team@{search\+Team}}
+\index{search\+Team@{search\+Team}!Dialog@{Dialog}}
+\subsubsection[{search\+Team}]{\setlength{\rightskip}{0pt plus 5cm}void Dialog\+::search\+Team (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}, {\ttfamily [slot]}}\label{class_dialog_a14e25a37abc03cea2b0aaf7dc91fe857}
+
+
+References E\+D\+I\+T, liga\+\_\+, msg\+User(), List$<$ T $>$\+::search\+Ele\+Name(), set\+Mode(), set\+Node(), and take\+Team\+From\+Ui().
+
+
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{df/da9/class_dialog_a14e25a37abc03cea2b0aaf7dc91fe857_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_dialog_ad8dc7674caf8ad80354371cb055e2d86}{}\index{Dialog@{Dialog}!set\+Id@{set\+Id}}
+\index{set\+Id@{set\+Id}!Dialog@{Dialog}}
+\subsubsection[{set\+Id}]{\setlength{\rightskip}{0pt plus 5cm}void Dialog\+::set\+Id (
+\begin{DoxyParamCaption}
+\item[{size\+\_\+t}]{p\+Id}
+\end{DoxyParamCaption}
+)}\label{class_dialog_ad8dc7674caf8ad80354371cb055e2d86}
+\hypertarget{class_dialog_a49ad60e52f0e52fa4ec27b67964913fa}{}\index{Dialog@{Dialog}!set\+List@{set\+List}}
+\index{set\+List@{set\+List}!Dialog@{Dialog}}
+\subsubsection[{set\+List}]{\setlength{\rightskip}{0pt plus 5cm}void Dialog\+::set\+List (
+\begin{DoxyParamCaption}
+\item[{{\bf List}$<$ {\bf Team} $>$ \&}]{pliga}
+\end{DoxyParamCaption}
+)}\label{class_dialog_a49ad60e52f0e52fa4ec27b67964913fa}
+
+
+References liga\+\_\+.
+
+
+
+Referenced by Main\+Window\+::add\+Team(), Main\+Window\+::edit\+Team(), and Main\+Window\+::search\+Team().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=328pt]{df/da9/class_dialog_a49ad60e52f0e52fa4ec27b67964913fa_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_dialog_adc05cff2da1c925917d2301d730eebd8}{}\index{Dialog@{Dialog}!set\+Mode@{set\+Mode}}
+\index{set\+Mode@{set\+Mode}!Dialog@{Dialog}}
+\subsubsection[{set\+Mode}]{\setlength{\rightskip}{0pt plus 5cm}void Dialog\+::set\+Mode (
+\begin{DoxyParamCaption}
+\item[{{\bf Dialog\+::\+E\+T\+Mode}}]{pe\+Mode}
+\end{DoxyParamCaption}
+)}\label{class_dialog_adc05cff2da1c925917d2301d730eebd8}
+
+
+References A\+D\+D, E\+D\+I\+T, e\+Mode\+\_\+, S\+E\+A\+R\+C\+H, and ui.
+
+
+
+Referenced by Main\+Window\+::add\+Team(), Main\+Window\+::edit\+Team(), search\+Team(), and Main\+Window\+::search\+Team().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=336pt]{df/da9/class_dialog_adc05cff2da1c925917d2301d730eebd8_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_dialog_a3fe34fdf51dce326e10b7b2eef8ae6ea}{}\index{Dialog@{Dialog}!set\+Node@{set\+Node}}
+\index{set\+Node@{set\+Node}!Dialog@{Dialog}}
+\subsubsection[{set\+Node}]{\setlength{\rightskip}{0pt plus 5cm}void Dialog\+::set\+Node (
+\begin{DoxyParamCaption}
+\item[{size\+\_\+t}]{i\+Pos}
+\end{DoxyParamCaption}
+)}\label{class_dialog_a3fe34fdf51dce326e10b7b2eef8ae6ea}
+
+
+References i\+Node\+To\+Edit\+\_\+, and load\+Team().
+
+
+
+Referenced by Main\+Window\+::edit\+Team(), and search\+Team().
+
+
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{df/da9/class_dialog_a3fe34fdf51dce326e10b7b2eef8ae6ea_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=320pt]{df/da9/class_dialog_a3fe34fdf51dce326e10b7b2eef8ae6ea_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_dialog_a03a550e5b4fa16614d27f8d4e2329e10}{}\index{Dialog@{Dialog}!take\+Team\+From\+Ui@{take\+Team\+From\+Ui}}
+\index{take\+Team\+From\+Ui@{take\+Team\+From\+Ui}!Dialog@{Dialog}}
+\subsubsection[{take\+Team\+From\+Ui}]{\setlength{\rightskip}{0pt plus 5cm}void Dialog\+::take\+Team\+From\+Ui (
+\begin{DoxyParamCaption}
+\item[{{\bf Team} \&}]{p\+Team}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{class_dialog_a03a550e5b4fa16614d27f8d4e2329e10}
+
+
+References Team\+::set\+Derrotas(), Team\+::set\+Empates(), Team\+::set\+Goles\+A\+Favor(), Team\+::set\+Goles\+En\+Contra(), Team\+::set\+Nombre(), Team\+::set\+Victorias(), and ui.
+
+
+
+Referenced by call\+Function\+Team(), and search\+Team().
+
+
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{df/da9/class_dialog_a03a550e5b4fa16614d27f8d4e2329e10_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{df/da9/class_dialog_a03a550e5b4fa16614d27f8d4e2329e10_icgraph}
+\end{center}
+\end{figure}
+
+
+
+
+\subsection{Member Data Documentation}
+\hypertarget{class_dialog_a99d3ef596f183ccf2d69c3b465989102}{}\index{Dialog@{Dialog}!e\+Mode\+\_\+@{e\+Mode\+\_\+}}
+\index{e\+Mode\+\_\+@{e\+Mode\+\_\+}!Dialog@{Dialog}}
+\subsubsection[{e\+Mode\+\_\+}]{\setlength{\rightskip}{0pt plus 5cm}{\bf E\+T\+Mode} Dialog\+::e\+Mode\+\_\+\hspace{0.3cm}{\ttfamily [private]}}\label{class_dialog_a99d3ef596f183ccf2d69c3b465989102}
+
+
+Referenced by Dialog(), and set\+Mode().
+
+\hypertarget{class_dialog_af05db46d671e032a4e51e4068f32fb06}{}\index{Dialog@{Dialog}!id\+Team\+\_\+@{id\+Team\+\_\+}}
+\index{id\+Team\+\_\+@{id\+Team\+\_\+}!Dialog@{Dialog}}
+\subsubsection[{id\+Team\+\_\+}]{\setlength{\rightskip}{0pt plus 5cm}int Dialog\+::id\+Team\+\_\+\hspace{0.3cm}{\ttfamily [private]}}\label{class_dialog_af05db46d671e032a4e51e4068f32fb06}
+\hypertarget{class_dialog_a77bd4ac2499af67029f8f00d682ffde9}{}\index{Dialog@{Dialog}!i\+Node\+To\+Edit\+\_\+@{i\+Node\+To\+Edit\+\_\+}}
+\index{i\+Node\+To\+Edit\+\_\+@{i\+Node\+To\+Edit\+\_\+}!Dialog@{Dialog}}
+\subsubsection[{i\+Node\+To\+Edit\+\_\+}]{\setlength{\rightskip}{0pt plus 5cm}size\+\_\+t Dialog\+::i\+Node\+To\+Edit\+\_\+\hspace{0.3cm}{\ttfamily [private]}}\label{class_dialog_a77bd4ac2499af67029f8f00d682ffde9}
+
+
+Referenced by call\+Function\+Team(), Dialog(), load\+Team(), and set\+Node().
+
+\hypertarget{class_dialog_a91cdee063ecd915858353d07f2e50eb2}{}\index{Dialog@{Dialog}!liga\+\_\+@{liga\+\_\+}}
+\index{liga\+\_\+@{liga\+\_\+}!Dialog@{Dialog}}
+\subsubsection[{liga\+\_\+}]{\setlength{\rightskip}{0pt plus 5cm}{\bf List}$<${\bf Team}$>$$\ast$ Dialog\+::liga\+\_\+\hspace{0.3cm}{\ttfamily [private]}}\label{class_dialog_a91cdee063ecd915858353d07f2e50eb2}
+
+
+Referenced by call\+Function\+Team(), load\+Team(), search\+Team(), and set\+List().
+
+\hypertarget{class_dialog_aaa4b5bfb9a0f64900d524f14bc32e6df}{}\index{Dialog@{Dialog}!ui@{ui}}
+\index{ui@{ui}!Dialog@{Dialog}}
+\subsubsection[{ui}]{\setlength{\rightskip}{0pt plus 5cm}Ui\+::\+Dialog$\ast$ Dialog\+::ui\hspace{0.3cm}{\ttfamily [private]}}\label{class_dialog_aaa4b5bfb9a0f64900d524f14bc32e6df}
+
+
+Referenced by call\+Function\+Team(), Dialog(), load\+Team(), set\+Mode(), take\+Team\+From\+Ui(), and $\sim$\+Dialog().
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{dialog_8h}{dialog.\+h}\item 
+\hyperlink{dialog_8cpp}{dialog.\+cpp}\end{DoxyCompactItemize}

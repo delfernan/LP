@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['data',['data',['../structqt__meta__stringdata___dialog__t.html#ab25b68005835d5ad3d70c1bca9c726c2',1,'qt_meta_stringdata_Dialog_t::data()'],['../structqt__meta__stringdata___main_window__t.html#a53f42f958104d9adeaa605fb0083f943',1,'qt_meta_stringdata_MainWindow_t::data()']]],
-  ['derrotas',['derrotas',['../class_team.html#a2c6bb859be1056676938805863968dad',1,'Team']]]
+  ['idteam_5f',['idTeam_',['../df/da9/class_dialog.html#af05db46d671e032a4e51e4068f32fb06',1,'Dialog']]],
+  ['info',['info',['../dc/d8f/class_node.html#a21995784db5e7ad18061f631c5875635',1,'Node']]],
+  ['inodetoedit_5f',['iNodeToEdit_',['../df/da9/class_dialog.html#a77bd4ac2499af67029f8f00d682ffde9',1,'Dialog::iNodeToEdit_()'],['../d8/dad/class_dialog2.html#a8fb4a8ae79e9aa259a175b61bef0a977',1,'Dialog2::iNodeToEdit_()']]],
+  ['iselectedteam_5f',['iSelectedTeam_',['../d9/dc6/class_main_window.html#ab6d6da80222e139234012a2a39f72522',1,'MainWindow']]]
 ];

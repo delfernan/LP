@@ -1,9 +1,0 @@
-<map id="Dialog" name="Dialog">
-<area shape="rect" id="node4" href="$class_list.html" title="List\&lt; Team \&gt;" alt="" coords="97,277,196,304"/>
-<area shape="rect" id="node6" href="$class_node.html" title="Node\&lt; Team \&gt;" alt="" coords="90,187,197,213"/>
-<area shape="rect" id="node8" href="$class_node.html" title="Node\&lt; T \&gt;" alt="" coords="52,96,135,123"/>
-<area shape="rect" id="node13" href="$class_team.html" title="Team" alt="" coords="213,96,267,123"/>
-<area shape="rect" id="node15" href="$class_player.html" title="Player" alt="" coords="211,5,269,32"/>
-<area shape="rect" id="node17" href="$class_ui_1_1_dialog.html" title="Ui::Dialog" alt="" coords="222,277,300,304"/>
-<area shape="rect" id="node19" href="$class_ui___dialog.html" title="Ui_Dialog" alt="" coords="223,187,300,213"/>
-</map>

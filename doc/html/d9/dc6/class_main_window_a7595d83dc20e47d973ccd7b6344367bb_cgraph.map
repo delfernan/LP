@@ -1,0 +1,18 @@
+<map id="MainWindow::addPlayer" name="MainWindow::addPlayer">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a97f65a18f84465f9847581dde1b2d54a" title="loadList Load player data from memory to the user interfaz " alt="" coords="216,208,403,235"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#aff0a6c08ba9cb391b4c259d7e1e3e6ee" title="savePlayers save players to the selected team " alt="" coords="222,385,397,412"/>
+<area shape="rect" id="node35" href="$d8/dad/class_dialog2.html#a15d71b221052d782bfdf156fe4aa7d75" title="Dialog2::setList" alt="" coords="253,436,365,463"/>
+<area shape="rect" id="node37" href="$d8/dad/class_dialog2.html#ad11aeeec4bdf19f00fced524be1b4205" title="Dialog2::setMode" alt="" coords="248,487,371,513"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#ace14793517d02cd5d322190f6540b0ba" title="cleanPlayerList delete actual jugadores_ list " alt="" coords="451,208,645,235"/>
+<area shape="rect" id="node7" href="$d1/d34/class_list.html#a73f8b1d313382daffeeeed552f42da2f" title="List::isEmpty" alt="" coords="693,259,792,285"/>
+<area shape="rect" id="node9" href="$d1/d34/class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf" title="List::length" alt="" coords="699,157,786,184"/>
+<area shape="rect" id="node13" href="$d1/d34/class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="491,360,605,387"/>
+<area shape="rect" id="node15" href="$d1/d35/class_team.html#acd3112602057d3c2df5dc97b7edf23db" title="Team::getNombre" alt="" coords="485,309,611,336"/>
+<area shape="rect" id="node17" href="$d1/d34/class_list.html#ac09f38e751968bc57c81365b8e13b0f9" title="List::readFromBinaryFile2" alt="" coords="463,5,633,32"/>
+<area shape="rect" id="node19" href="$d1/d34/class_list.html#a3777550ab6dc21d161d5ba22424a1ec3" title="List::readFromFile" alt="" coords="485,56,611,83"/>
+<area shape="rect" id="node23" href="$d8/d53/class_player.html#a6d3beea7580a4b7b4c8b80feac3351d3" title="Player::toStd" alt="" coords="499,107,597,133"/>
+<area shape="rect" id="node11" href="$d1/d34/class_list.html#a7b33f41a6fd235d8e4e61e3aa7ffad71" title="List::erase" alt="" coords="701,208,784,235"/>
+<area shape="rect" id="node29" href="$d1/d34/class_list.html#a68ee91ea904d2c27f7a0d72e5bcfc841" title="List::writeToBinaryFile2" alt="" coords="469,411,627,437"/>
+<area shape="rect" id="node31" href="$d1/d34/class_list.html#a7f7e47c88bc1aa43f6b5c5d3bc0ae534" title="List::writeToFile" alt="" coords="491,461,605,488"/>
+<area shape="rect" id="node33" href="$d9/dc6/class_main_window.html#a9474f6768838e45603392694ae2c3913" title="General messages pop up. " alt="" coords="470,512,626,539"/>
+</map>

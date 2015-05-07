@@ -1,17 +1,16 @@
 var searchData=
 [
-  ['main',['main',['../main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97',1,'main.cpp']]],
-  ['main_2ecpp',['main.cpp',['../main_8cpp.html',1,'']]],
-  ['maintoolbar',['mainToolBar',['../class_ui___main_window.html#a5172877001c8c7b4e0f6de50421867d1',1,'Ui_MainWindow']]],
-  ['mainwindow',['MainWindow',['../class_main_window.html',1,'MainWindow'],['../class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db',1,'MainWindow::MainWindow()']]],
-  ['mainwindow',['MainWindow',['../class_ui_1_1_main_window.html',1,'Ui']]],
-  ['mainwindow_2ecpp',['mainwindow.cpp',['../mainwindow_8cpp.html',1,'']]],
-  ['mainwindow_2eh',['mainwindow.h',['../mainwindow_8h.html',1,'']]],
-  ['menu_5ffile',['menu_File',['../class_ui___main_window.html#a6d6a92a6bccde97ab13fce9014eb25d4',1,'Ui_MainWindow']]],
-  ['menu_5foptions',['menu_Options',['../class_ui___main_window.html#a652e71e64e3b3dbf31b4fa1000b50064',1,'Ui_MainWindow']]],
-  ['menubar',['menuBar',['../class_ui___main_window.html#a2be1c24ec9adfca18e1dcc951931457f',1,'Ui_MainWindow']]],
-  ['moc_5fdialog_2ecpp',['moc_dialog.cpp',['../moc__dialog_8cpp.html',1,'']]],
-  ['moc_5fmainwindow_2ecpp',['moc_mainwindow.cpp',['../moc__mainwindow_8cpp.html',1,'']]],
-  ['modify',['modify',['../class_list.html#a0a155d92947a2d58f1476658d22fd4c2',1,'List']]],
-  ['msguser',['msgUser',['../class_dialog.html#a29ddbbd67ffdca68c35bd2692deef08b',1,'Dialog::msgUser()'],['../class_main_window.html#a9474f6768838e45603392694ae2c3913',1,'MainWindow::msgUser()']]]
+  ['length',['length',['../d1/d34/class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf',1,'List']]],
+  ['liga_5f',['liga_',['../df/da9/class_dialog.html#a91cdee063ecd915858353d07f2e50eb2',1,'Dialog::liga_()'],['../d1/d34/class_list.html#a004c46b3634b2b7d726c7abe4113dbaa',1,'List::liga_()'],['../d9/dc6/class_main_window.html#a5358b34e5fbb97d75dc06c61e7ae50fb',1,'MainWindow::liga_()']]],
+  ['list',['List',['../d1/d34/class_list.html',1,'List&lt; T &gt;'],['../d1/d34/class_list.html#a5c5e27671b21b3815d4e25b953c69454',1,'List::List()']]],
+  ['list_2ecpp',['list.cpp',['../d1/dd9/list_8cpp.html',1,'']]],
+  ['list_2eh',['list.h',['../da/d23/list_8h.html',1,'']]],
+  ['list_3c_20player_20_3e',['List&lt; Player &gt;',['../d1/d34/class_list.html',1,'']]],
+  ['list_3c_20team_20_3e',['List&lt; Team &gt;',['../d1/d34/class_list.html',1,'']]],
+  ['list_5fcpp',['LIST_CPP',['../d1/dd9/list_8cpp.html#aae87a4352d167efab33b080d6910ef89',1,'list.cpp']]],
+  ['loadplayer',['loadPlayer',['../d8/dad/class_dialog2.html#a0de735354c5eab3294223f035bb14cad',1,'Dialog2']]],
+  ['loadplayerlist',['loadPlayerList',['../d9/dc6/class_main_window.html#a97f65a18f84465f9847581dde1b2d54a',1,'MainWindow']]],
+  ['loadteam',['loadTeam',['../df/da9/class_dialog.html#a6f6564b3dab010fadb064d1bb46ac37c',1,'Dialog']]],
+  ['loadteamlist',['loadTeamList',['../d9/dc6/class_main_window.html#a79e5d5e87b7320205e162f7ba07a12a9',1,'MainWindow']]],
+  ['lon_5f',['lon_',['../d1/d34/class_list.html#a5296e3adef5445b4ac96f426bd1eba53',1,'List']]]
 ];

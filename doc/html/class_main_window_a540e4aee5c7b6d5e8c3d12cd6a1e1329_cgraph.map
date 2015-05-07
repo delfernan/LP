@@ -1,8 +1,0 @@
-<map id="MainWindow::loadList" name="MainWindow::loadList">
-<area shape="rect" id="node3" href="$class_list.html#a73f8b1d313382daffeeeed552f42da2f" title="List::isEmpty" alt="" coords="211,5,309,32"/>
-<area shape="rect" id="node5" href="$class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf" title="List::length" alt="" coords="217,56,303,83"/>
-<area shape="rect" id="node7" href="$class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="203,107,317,133"/>
-<area shape="rect" id="node9" href="$class_team.html#a1030dce9ad53dc47351a3fa44980b77b" title="Team::toStd" alt="" coords="213,157,307,184"/>
-<area shape="rect" id="node11" href="$class_team.html#aaca5bb9a0ce8a775d590d297c772d3bd" title="Team::calculaPuntos" alt="" coords="365,132,509,159"/>
-<area shape="rect" id="node13" href="$class_player.html#a6d3beea7580a4b7b4c8b80feac3351d3" title="Player::toStd" alt="" coords="388,183,487,209"/>
-</map>

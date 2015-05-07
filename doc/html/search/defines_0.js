@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['qt_5fmoc_5fliteral',['QT_MOC_LITERAL',['../moc__dialog_8cpp.html#a75bb9482d242cde0a06c9dbdc6b83abe',1,'QT_MOC_LITERAL():&#160;moc_dialog.cpp'],['../moc__mainwindow_8cpp.html#a75bb9482d242cde0a06c9dbdc6b83abe',1,'QT_MOC_LITERAL():&#160;moc_mainwindow.cpp']]]
+  ['binary_5ffile',['BINARY_FILE',['../d9/d53/mainwindow_8h.html#a235764c67fdcb87b7484bdc1ef801959',1,'mainwindow.h']]]
 ];

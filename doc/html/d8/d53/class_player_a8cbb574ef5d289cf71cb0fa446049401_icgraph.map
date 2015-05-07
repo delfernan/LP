@@ -1,0 +1,7 @@
+<map id="Player::getNGoles" name="Player::getNGoles">
+<area shape="rect" id="node3" href="$d8/d53/class_player.html#aab6b943cff330f13e93e24f3ed960eff" title="Player::comparePoints" alt="" coords="181,5,336,32"/>
+<area shape="rect" id="node5" href="$d8/dad/class_dialog2.html#a0de735354c5eab3294223f035bb14cad" title="Dialog2::loadPlayer" alt="" coords="191,56,326,83"/>
+<area shape="rect" id="node7" href="$d8/dad/class_dialog2.html#afcb469b5706793d4048d621a0e4c3abd" title="Dialog2::setNode" alt="" coords="385,56,506,83"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a22c2cf54c567c2de6ec7bd6f7c79ced8" title="editTeam Edit the selected team " alt="" coords="555,31,717,57"/>
+<area shape="rect" id="node11" href="$d8/dad/class_dialog2.html#a4de4b4481a18d1001ac600a4fdcd4256" title="Dialog2::searchPlayer" alt="" coords="561,81,711,108"/>
+</map>

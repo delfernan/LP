@@ -1,37 +1,28 @@
 var files =
 [
-    [ "debug", "dir_84d4ec99856759213102e4209c09c524.html", "dir_84d4ec99856759213102e4209c09c524" ],
-    [ "dialog.cpp", "dialog_8cpp.html", null ],
-    [ "dialog.h", "dialog_8h.html", [
-      [ "Dialog", "class_dialog.html", "class_dialog" ]
+    [ "dialog.cpp", "de/dfa/dialog_8cpp.html", null ],
+    [ "dialog.h", "d1/dc9/dialog_8h.html", [
+      [ "Dialog", "df/da9/class_dialog.html", "df/da9/class_dialog" ]
     ] ],
-    [ "list.cpp", "list_8cpp.html", null ],
-    [ "list.h", "list_8h.html", [
-      [ "List", "class_list.html", "class_list" ]
+    [ "dialog2.cpp", "dd/d57/dialog2_8cpp.html", null ],
+    [ "dialog2.h", "d5/ddf/dialog2_8h.html", [
+      [ "Dialog2", "d8/dad/class_dialog2.html", "d8/dad/class_dialog2" ]
     ] ],
-    [ "main.cpp", "main_8cpp.html", "main_8cpp" ],
-    [ "mainwindow.cpp", "mainwindow_8cpp.html", null ],
-    [ "mainwindow.h", "mainwindow_8h.html", [
-      [ "MainWindow", "class_main_window.html", "class_main_window" ]
+    [ "list.cpp", "d1/dd9/list_8cpp.html", "d1/dd9/list_8cpp" ],
+    [ "list.h", "da/d23/list_8h.html", [
+      [ "List", "d1/d34/class_list.html", "d1/d34/class_list" ]
     ] ],
-    [ "node.cpp", "node_8cpp.html", null ],
-    [ "node.h", "node_8h.html", [
-      [ "Node", "class_node.html", "class_node" ]
+    [ "main.cpp", "df/d0a/main_8cpp.html", "df/d0a/main_8cpp" ],
+    [ "mainwindow.cpp", "d8/dd9/mainwindow_8cpp.html", null ],
+    [ "mainwindow.h", "d9/d53/mainwindow_8h.html", "d9/d53/mainwindow_8h" ],
+    [ "node.cpp", "d7/d70/node_8cpp.html", null ],
+    [ "node.h", "d1/d77/node_8h.html", [
+      [ "Node", "dc/d8f/class_node.html", "dc/d8f/class_node" ]
     ] ],
-    [ "player.cpp", "player_8cpp.html", null ],
-    [ "player.h", "player_8h.html", [
-      [ "Player", "class_player.html", "class_player" ]
-    ] ],
-    [ "team.cpp", "team_8cpp.html", null ],
-    [ "team.h", "team_8h.html", [
-      [ "Team", "class_team.html", "class_team" ]
-    ] ],
-    [ "ui_dialog.h", "ui__dialog_8h.html", [
-      [ "Ui_Dialog", "class_ui___dialog.html", "class_ui___dialog" ],
-      [ "Dialog", "class_ui_1_1_dialog.html", null ]
-    ] ],
-    [ "ui_mainwindow.h", "ui__mainwindow_8h.html", [
-      [ "Ui_MainWindow", "class_ui___main_window.html", "class_ui___main_window" ],
-      [ "MainWindow", "class_ui_1_1_main_window.html", null ]
+    [ "player.cpp", "db/d80/player_8cpp.html", null ],
+    [ "player.h", "d3/d62/player_8h.html", "d3/d62/player_8h" ],
+    [ "team.cpp", "d1/dea/team_8cpp.html", null ],
+    [ "team.h", "de/deb/team_8h.html", [
+      [ "Team", "d1/d35/class_team.html", "d1/d35/class_team" ]
     ] ]
 ];

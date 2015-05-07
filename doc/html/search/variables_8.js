@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['maintoolbar',['mainToolBar',['../class_ui___main_window.html#a5172877001c8c7b4e0f6de50421867d1',1,'Ui_MainWindow']]],
-  ['menu_5ffile',['menu_File',['../class_ui___main_window.html#a6d6a92a6bccde97ab13fce9014eb25d4',1,'Ui_MainWindow']]],
-  ['menu_5foptions',['menu_Options',['../class_ui___main_window.html#a652e71e64e3b3dbf31b4fa1000b50064',1,'Ui_MainWindow']]],
-  ['menubar',['menuBar',['../class_ui___main_window.html#a2be1c24ec9adfca18e1dcc951931457f',1,'Ui_MainWindow']]]
+  ['ui',['ui',['../df/da9/class_dialog.html#aaa4b5bfb9a0f64900d524f14bc32e6df',1,'Dialog::ui()'],['../d8/dad/class_dialog2.html#a321aadfcfc152fc97dc63391f08216fa',1,'Dialog2::ui()'],['../d9/dc6/class_main_window.html#a35466a70ed47252a0191168126a352a5',1,'MainWindow::ui()']]]
 ];

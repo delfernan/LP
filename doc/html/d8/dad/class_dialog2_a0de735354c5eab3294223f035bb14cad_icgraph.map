@@ -1,0 +1,5 @@
+<map id="Dialog2::loadPlayer" name="Dialog2::loadPlayer">
+<area shape="rect" id="node3" href="$d8/dad/class_dialog2.html#afcb469b5706793d4048d621a0e4c3abd" title="Dialog2::setNode" alt="" coords="190,31,311,57"/>
+<area shape="rect" id="node5" href="$d8/dad/class_dialog2.html#a4de4b4481a18d1001ac600a4fdcd4256" title="Dialog2::searchPlayer" alt="" coords="367,5,516,32"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a22c2cf54c567c2de6ec7bd6f7c79ced8" title="editTeam Edit the selected team " alt="" coords="360,56,523,83"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Dialog::takeTeamFromUi" name="Dialog::takeTeamFromUi">
+<area shape="rect" id="node3" href="$d1/d35/class_team.html#a0e8272a4c5127fcd4be5444dd22cda9f" title="Team::setDerrotas" alt="" coords="238,5,367,32"/>
+<area shape="rect" id="node5" href="$d1/d35/class_team.html#a9dfa2c82540d9321e6cafb6acded557f" title="Team::setEmpates" alt="" coords="237,56,369,83"/>
+<area shape="rect" id="node7" href="$d1/d35/class_team.html#af21b432f707a656148c6626f105a93cc" title="Team::setGolesAFavor" alt="" coords="225,107,380,133"/>
+<area shape="rect" id="node9" href="$d1/d35/class_team.html#a68c254ae21bea1353f5398b9858e7ff6" title="Team::setGolesEnContra" alt="" coords="219,157,387,184"/>
+<area shape="rect" id="node11" href="$d1/d35/class_team.html#a4e2bdf61ee9103b54c01bf65a3300bed" title="Team::setNombre" alt="" coords="240,208,365,235"/>
+<area shape="rect" id="node13" href="$d1/d35/class_team.html#a43b0095989199cafdbdb1cf87a2eba2f" title="Team::setVictorias" alt="" coords="237,259,368,285"/>
+</map>

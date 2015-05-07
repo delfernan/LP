@@ -1,6 +1,6 @@
 var NAVTREE =
 [
-  [ "Champion League", "index.html", [
+  [ "Champion League Demo Project", "index.html", [
     [ "Namespaces", null, [
       [ "Namespace List", "namespaces.html", "namespaces" ]
     ] ],

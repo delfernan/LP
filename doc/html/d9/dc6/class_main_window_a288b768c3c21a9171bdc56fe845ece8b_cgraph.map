@@ -1,0 +1,14 @@
+<map id="MainWindow::openFile" name="MainWindow::openFile">
+<area shape="rect" id="node3" href="$d1/d34/class_list.html#aa5bfaf8ed64d7a3d8a5e748a07457519" title="List::copy" alt="" coords="259,5,338,32"/>
+<area shape="rect" id="node7" href="$d1/d34/class_list.html#a7b33f41a6fd235d8e4e61e3aa7ffad71" title="List::erase" alt="" coords="257,56,340,83"/>
+<area shape="rect" id="node9" href="$d1/d34/class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf" title="List::length" alt="" coords="451,107,538,133"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a79e5d5e87b7320205e162f7ba07a12a9" title="loadTeamList Load data from memory to the user interfaz " alt="" coords="208,157,389,184"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a9474f6768838e45603392694ae2c3913" title="General messages pop up. " alt="" coords="221,208,377,235"/>
+<area shape="rect" id="node24" href="$d1/d34/class_list.html#ac09f38e751968bc57c81365b8e13b0f9" title="List::readFromBinaryFile2" alt="" coords="213,259,384,285"/>
+<area shape="rect" id="node26" href="$d1/d34/class_list.html#a3777550ab6dc21d161d5ba22424a1ec3" title="List::readFromFile" alt="" coords="235,309,362,336"/>
+<area shape="rect" id="node5" href="$d1/d34/class_list.html#a21f3ce01b4ef1a01010e772aff62b021" title="List::insertAfter" alt="" coords="439,5,550,32"/>
+<area shape="rect" id="node13" href="$d1/d34/class_list.html#a73f8b1d313382daffeeeed552f42da2f" title="List::isEmpty" alt="" coords="445,157,544,184"/>
+<area shape="rect" id="node16" href="$d1/d34/class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="438,208,551,235"/>
+<area shape="rect" id="node18" href="$d1/d35/class_team.html#a1030dce9ad53dc47351a3fa44980b77b" title="Team::toStd" alt="" coords="448,259,541,285"/>
+<area shape="rect" id="node20" href="$d1/d35/class_team.html#aaca5bb9a0ce8a775d590d297c772d3bd" title="Team::calculaPuntos" alt="" coords="600,259,744,285"/>
+</map>

@@ -1,6 +1,0 @@
-<map id="Team::getGolesAFavor" name="Team::getGolesAFavor">
-<area shape="rect" id="node3" href="$class_dialog.html#a6f6564b3dab010fadb064d1bb46ac37c" title="Dialog::loadTeam" alt="" coords="208,31,331,57"/>
-<area shape="rect" id="node5" href="$class_dialog.html#a3fe34fdf51dce326e10b7b2eef8ae6ea" title="Dialog::setNode" alt="" coords="405,5,520,32"/>
-<area shape="rect" id="node9" href="$class_dialog.html#a1875941a0c922fa231c8c40d3c46a481" title="Dialog::callFunctionTeam" alt="" coords="379,56,547,83"/>
-<area shape="rect" id="node7" href="$class_main_window.html#a637b22ad7b085a1664384ea3ab8084cd" title="Edit selected item... " alt="" coords="595,5,752,32"/>
-</map>

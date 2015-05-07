@@ -1,0 +1,5 @@
+<map id="Player::setNombre" name="Player::setNombre">
+<area shape="rect" id="node3" href="$d8/dad/class_dialog2.html#a7d1f42eb6a8798be34da38e4df4929f7" title="Dialog2::takePlayerFromUi" alt="" coords="185,31,362,57"/>
+<area shape="rect" id="node5" href="$d8/dad/class_dialog2.html#afb96c399f9c34cd43e4900cfa27bc239" title="Dialog2::callFunctionPlayer" alt="" coords="411,5,591,32"/>
+<area shape="rect" id="node7" href="$d8/dad/class_dialog2.html#a4de4b4481a18d1001ac600a4fdcd4256" title="Dialog2::searchPlayer" alt="" coords="427,56,576,83"/>
+</map>

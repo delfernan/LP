@@ -1,0 +1,582 @@
+\hypertarget{class_list}{}\section{List$<$ T $>$ Class Template Reference}
+\label{class_list}\index{List$<$ T $>$@{List$<$ T $>$}}
+
+
+{\ttfamily \#include $<$list.\+h$>$}
+
+
+
+Inheritance diagram for List$<$ T $>$\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=258pt]{d6/da6/class_list__inherit__graph}
+\end{center}
+\end{figure}
+
+
+Collaboration diagram for List$<$ T $>$\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=160pt]{dc/de4/class_list__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_list_a5c5e27671b21b3815d4e25b953c69454}{List} ()
+\item 
+\hyperlink{class_list_a2b58189090f6e5ce52939c9195e59e85}{$\sim$\+List} ()
+\item 
+bool \hyperlink{class_list_a73f8b1d313382daffeeeed552f42da2f}{is\+Empty} ()
+\item 
+size\+\_\+t \hyperlink{class_list_a68cc26f03567b3f2444ca491d0cbcaaf}{length} ()
+\item 
+void \hyperlink{class_list_a21f3ce01b4ef1a01010e772aff62b021}{insert\+After} (T e)
+\item 
+void \hyperlink{class_list_a0dd0eaf4e74d73c8c2b4be659f1c833f}{insert} (size\+\_\+t pos, T e)
+\item 
+T \hyperlink{class_list_a69893c5ca361f9502a0dc1c967612d02}{search\+Pos} (size\+\_\+t pos)
+\item 
+void \hyperlink{class_list_a0a155d92947a2d58f1476658d22fd4c2}{modify} (size\+\_\+t pos, T e)
+\item 
+void \hyperlink{class_list_a7b33f41a6fd235d8e4e61e3aa7ffad71}{erase} (size\+\_\+t pos)
+\item 
+void \hyperlink{class_list_aa5bfaf8ed64d7a3d8a5e748a07457519}{copy} (\hyperlink{class_list}{List}$<$ T $>$ \&l\+New)
+\item 
+void \hyperlink{class_list_aa283c9dcd29c329105a9b574c04862b1}{copy\+Sorted} (\hyperlink{class_list}{List}$<$ T $>$ \&l\+New)
+\item 
+void \hyperlink{class_list_adcdf869b2506e2332052eff47afc8412}{sort} ()
+\begin{DoxyCompactList}\small\item\em sort insertion sort \end{DoxyCompactList}\item 
+void \hyperlink{class_list_a006226544e5e078fdb4207edac1fb154}{sort\+Desc} ()
+\item 
+void \hyperlink{class_list_aa641ba4a8f1792780ae0dc7cd506aeb6}{insert\+Sorted} (T e)
+\item 
+size\+\_\+t \hyperlink{class_list_aa614a359e8399195c71d14067484d3b2}{search\+Ele\+Name} (T e)
+\item 
+bool \hyperlink{class_list_a3777550ab6dc21d161d5ba22424a1ec3}{read\+From\+File} (const char $\ast$file\+Name)
+\item 
+bool \hyperlink{class_list_a7f7e47c88bc1aa43f6b5c5d3bc0ae534}{write\+To\+File} (const char $\ast$file\+Name)
+\item 
+bool \hyperlink{class_list_aab782dad9ac7aef84efa32355ebcff6c}{read\+From\+Binary\+File} (const char $\ast$file\+Name)
+\item 
+bool \hyperlink{class_list_aafb9d7588355abb7f730e2d89ac62a39}{write\+To\+Binary\+File} (const char $\ast$file\+Name)
+\item 
+bool \hyperlink{class_list_ac09f38e751968bc57c81365b8e13b0f9}{read\+From\+Binary\+File2} (const char $\ast$file\+Name)
+\item 
+bool \hyperlink{class_list_a68ee91ea904d2c27f7a0d72e5bcfc841}{write\+To\+Binary\+File2} (const char $\ast$file\+Name)
+\item 
+std\+::string \hyperlink{class_list_a398ec91dea02e47c2b85da531f165b25}{to\+Std} ()
+\end{DoxyCompactItemize}
+\subsection*{Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{class_list_a71317037748180534e54d3ff01f875a1}{init} ()
+\end{DoxyCompactItemize}
+\subsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_node}{Node}$<$ T $>$ $\ast$ \hyperlink{class_list_a004c46b3634b2b7d726c7abe4113dbaa}{liga\+\_\+}
+\item 
+size\+\_\+t \hyperlink{class_list_a5296e3adef5445b4ac96f426bd1eba53}{lon\+\_\+}
+\end{DoxyCompactItemize}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{class_list_a5c5e27671b21b3815d4e25b953c69454}{}\index{List@{List}!List@{List}}
+\index{List@{List}!List@{List}}
+\subsubsection[{List}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ {\bf List}$<$ T $>$\+::{\bf List} (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_list_a5c5e27671b21b3815d4e25b953c69454}
+\hypertarget{class_list_a2b58189090f6e5ce52939c9195e59e85}{}\index{List@{List}!````~List@{$\sim$\+List}}
+\index{````~List@{$\sim$\+List}!List@{List}}
+\subsubsection[{$\sim$\+List}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ {\bf List}$<$ T $>$\+::$\sim${\bf List} (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_list_a2b58189090f6e5ce52939c9195e59e85}
+
+
+References Node$<$ T $>$\+::next.
+
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_list_aa5bfaf8ed64d7a3d8a5e748a07457519}{}\index{List@{List}!copy@{copy}}
+\index{copy@{copy}!List@{List}}
+\subsubsection[{copy}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T$>$ void {\bf List}$<$ T $>$\+::copy (
+\begin{DoxyParamCaption}
+\item[{{\bf List}$<$ T $>$ \&}]{l\+New}
+\end{DoxyParamCaption}
+)}\label{class_list_aa5bfaf8ed64d7a3d8a5e748a07457519}
+
+
+References Node$<$ T $>$\+::info, List$<$ T $>$\+::insert\+After(), and Node$<$ T $>$\+::next.
+
+
+
+Referenced by Main\+Window\+::open\+File().
+
+
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=260pt]{d1/d34/class_list_aa5bfaf8ed64d7a3d8a5e748a07457519_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=292pt]{d1/d34/class_list_aa5bfaf8ed64d7a3d8a5e748a07457519_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_aa283c9dcd29c329105a9b574c04862b1}{}\index{List@{List}!copy\+Sorted@{copy\+Sorted}}
+\index{copy\+Sorted@{copy\+Sorted}!List@{List}}
+\subsubsection[{copy\+Sorted}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T$>$ void {\bf List}$<$ T $>$\+::copy\+Sorted (
+\begin{DoxyParamCaption}
+\item[{{\bf List}$<$ T $>$ \&}]{l\+New}
+\end{DoxyParamCaption}
+)}\label{class_list_aa283c9dcd29c329105a9b574c04862b1}
+
+
+References Node$<$ T $>$\+::info, List$<$ T $>$\+::insert\+Sorted(), and Node$<$ T $>$\+::next.
+
+
+
+Here is the call graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=296pt]{d1/d34/class_list_aa283c9dcd29c329105a9b574c04862b1_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_a7b33f41a6fd235d8e4e61e3aa7ffad71}{}\index{List@{List}!erase@{erase}}
+\index{erase@{erase}!List@{List}}
+\subsubsection[{erase}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ void {\bf List}$<$ T $>$\+::erase (
+\begin{DoxyParamCaption}
+\item[{size\+\_\+t}]{pos}
+\end{DoxyParamCaption}
+)}\label{class_list_a7b33f41a6fd235d8e4e61e3aa7ffad71}
+
+
+References Node$<$ T $>$\+::next.
+
+
+
+Referenced by Main\+Window\+::clean\+Player\+List(), Main\+Window\+::delete\+Player(), Main\+Window\+::delete\+Team(), and Main\+Window\+::open\+File().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d34/class_list_a7b33f41a6fd235d8e4e61e3aa7ffad71_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_a71317037748180534e54d3ff01f875a1}{}\index{List@{List}!init@{init}}
+\index{init@{init}!List@{List}}
+\subsubsection[{init}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ void {\bf List}$<$ T $>$\+::init (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{class_list_a71317037748180534e54d3ff01f875a1}
+\hypertarget{class_list_a0dd0eaf4e74d73c8c2b4be659f1c833f}{}\index{List@{List}!insert@{insert}}
+\index{insert@{insert}!List@{List}}
+\subsubsection[{insert}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T$>$ void {\bf List}$<$ T $>$\+::insert (
+\begin{DoxyParamCaption}
+\item[{size\+\_\+t}]{pos, }
+\item[{T}]{e}
+\end{DoxyParamCaption}
+)}\label{class_list_a0dd0eaf4e74d73c8c2b4be659f1c833f}
+
+
+References Node$<$ T $>$\+::next.
+
+\hypertarget{class_list_a21f3ce01b4ef1a01010e772aff62b021}{}\index{List@{List}!insert\+After@{insert\+After}}
+\index{insert\+After@{insert\+After}!List@{List}}
+\subsubsection[{insert\+After}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T$>$ void {\bf List}$<$ T $>$\+::insert\+After (
+\begin{DoxyParamCaption}
+\item[{T}]{e}
+\end{DoxyParamCaption}
+)}\label{class_list_a21f3ce01b4ef1a01010e772aff62b021}
+
+
+References Node$<$ T $>$\+::next.
+
+
+
+Referenced by List$<$ T $>$\+::copy().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d34/class_list_a21f3ce01b4ef1a01010e772aff62b021_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_aa641ba4a8f1792780ae0dc7cd506aeb6}{}\index{List@{List}!insert\+Sorted@{insert\+Sorted}}
+\index{insert\+Sorted@{insert\+Sorted}!List@{List}}
+\subsubsection[{insert\+Sorted}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T$>$ void {\bf List}$<$ T $>$\+::insert\+Sorted (
+\begin{DoxyParamCaption}
+\item[{T}]{e}
+\end{DoxyParamCaption}
+)}\label{class_list_aa641ba4a8f1792780ae0dc7cd506aeb6}
+
+
+References Node$<$ T $>$\+::info, and Node$<$ T $>$\+::next.
+
+
+
+Referenced by Dialog2\+::call\+Function\+Player(), Dialog\+::call\+Function\+Team(), and List$<$ T $>$\+::copy\+Sorted().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=344pt]{d1/d34/class_list_aa641ba4a8f1792780ae0dc7cd506aeb6_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_a73f8b1d313382daffeeeed552f42da2f}{}\index{List@{List}!is\+Empty@{is\+Empty}}
+\index{is\+Empty@{is\+Empty}!List@{List}}
+\subsubsection[{is\+Empty}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ bool {\bf List}$<$ T $>$\+::is\+Empty (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_list_a73f8b1d313382daffeeeed552f42da2f}
+
+
+Referenced by Main\+Window\+::clean\+Player\+List(), Main\+Window\+::delete\+Player(), Main\+Window\+::delete\+Team(), Main\+Window\+::edit\+Player(), Main\+Window\+::edit\+Team(), Main\+Window\+::load\+Player\+List(), Main\+Window\+::load\+Team\+List(), Main\+Window\+::save\+All(), Main\+Window\+::save\+As(), Main\+Window\+::search\+Player(), Main\+Window\+::search\+Team(), Main\+Window\+::sort\+Player\+List(), Main\+Window\+::sort\+Player\+List\+Desc(), Main\+Window\+::sort\+Team\+List(), and Main\+Window\+::sort\+Team\+List\+Desc().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d34/class_list_a73f8b1d313382daffeeeed552f42da2f_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_a68cc26f03567b3f2444ca491d0cbcaaf}{}\index{List@{List}!length@{length}}
+\index{length@{length}!List@{List}}
+\subsubsection[{length}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ size\+\_\+t {\bf List}$<$ T $>$\+::length (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_list_a68cc26f03567b3f2444ca491d0cbcaaf}
+
+
+Referenced by Main\+Window\+::clean\+Player\+List(), Main\+Window\+::load\+Player\+List(), Main\+Window\+::load\+Team\+List(), Main\+Window\+::open\+File(), Main\+Window\+::save\+All(), and Main\+Window\+::save\+As().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d34/class_list_a68cc26f03567b3f2444ca491d0cbcaaf_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_a0a155d92947a2d58f1476658d22fd4c2}{}\index{List@{List}!modify@{modify}}
+\index{modify@{modify}!List@{List}}
+\subsubsection[{modify}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T$>$ void {\bf List}$<$ T $>$\+::modify (
+\begin{DoxyParamCaption}
+\item[{size\+\_\+t}]{pos, }
+\item[{T}]{e}
+\end{DoxyParamCaption}
+)}\label{class_list_a0a155d92947a2d58f1476658d22fd4c2}
+
+
+References Node$<$ T $>$\+::info, and Node$<$ T $>$\+::next.
+
+
+
+Referenced by Dialog2\+::call\+Function\+Player(), and Dialog\+::call\+Function\+Team().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=320pt]{d1/d34/class_list_a0a155d92947a2d58f1476658d22fd4c2_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_aab782dad9ac7aef84efa32355ebcff6c}{}\index{List@{List}!read\+From\+Binary\+File@{read\+From\+Binary\+File}}
+\index{read\+From\+Binary\+File@{read\+From\+Binary\+File}!List@{List}}
+\subsubsection[{read\+From\+Binary\+File}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ bool {\bf List}$<$ T $>$\+::read\+From\+Binary\+File (
+\begin{DoxyParamCaption}
+\item[{const char $\ast$}]{file\+Name}
+\end{DoxyParamCaption}
+)}\label{class_list_aab782dad9ac7aef84efa32355ebcff6c}
+\hypertarget{class_list_ac09f38e751968bc57c81365b8e13b0f9}{}\index{List@{List}!read\+From\+Binary\+File2@{read\+From\+Binary\+File2}}
+\index{read\+From\+Binary\+File2@{read\+From\+Binary\+File2}!List@{List}}
+\subsubsection[{read\+From\+Binary\+File2}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ bool {\bf List}$<$ T $>$\+::read\+From\+Binary\+File2 (
+\begin{DoxyParamCaption}
+\item[{const char $\ast$}]{file\+Name}
+\end{DoxyParamCaption}
+)}\label{class_list_ac09f38e751968bc57c81365b8e13b0f9}
+
+
+Referenced by Main\+Window\+::init(), Main\+Window\+::load\+Player\+List(), and Main\+Window\+::open\+File().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d34/class_list_ac09f38e751968bc57c81365b8e13b0f9_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_a3777550ab6dc21d161d5ba22424a1ec3}{}\index{List@{List}!read\+From\+File@{read\+From\+File}}
+\index{read\+From\+File@{read\+From\+File}!List@{List}}
+\subsubsection[{read\+From\+File}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ bool {\bf List}$<$ T $>$\+::read\+From\+File (
+\begin{DoxyParamCaption}
+\item[{const char $\ast$}]{file\+Name}
+\end{DoxyParamCaption}
+)}\label{class_list_a3777550ab6dc21d161d5ba22424a1ec3}
+
+
+Referenced by Main\+Window\+::init(), Main\+Window\+::load\+Player\+List(), and Main\+Window\+::open\+File().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d34/class_list_a3777550ab6dc21d161d5ba22424a1ec3_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_aa614a359e8399195c71d14067484d3b2}{}\index{List@{List}!search\+Ele\+Name@{search\+Ele\+Name}}
+\index{search\+Ele\+Name@{search\+Ele\+Name}!List@{List}}
+\subsubsection[{search\+Ele\+Name}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T$>$ size\+\_\+t {\bf List}$<$ T $>$\+::search\+Ele\+Name (
+\begin{DoxyParamCaption}
+\item[{T}]{e}
+\end{DoxyParamCaption}
+)}\label{class_list_aa614a359e8399195c71d14067484d3b2}
+
+
+References Node$<$ T $>$\+::info, and Node$<$ T $>$\+::next.
+
+
+
+Referenced by Dialog\+::call\+Function\+Team(), Dialog2\+::search\+Player(), and Dialog\+::search\+Team().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d34/class_list_aa614a359e8399195c71d14067484d3b2_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_a69893c5ca361f9502a0dc1c967612d02}{}\index{List@{List}!search\+Pos@{search\+Pos}}
+\index{search\+Pos@{search\+Pos}!List@{List}}
+\subsubsection[{search\+Pos}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ T {\bf List}$<$ T $>$\+::search\+Pos (
+\begin{DoxyParamCaption}
+\item[{size\+\_\+t}]{pos}
+\end{DoxyParamCaption}
+)}\label{class_list_a69893c5ca361f9502a0dc1c967612d02}
+
+
+References Node$<$ T $>$\+::info, and Node$<$ T $>$\+::next.
+
+
+
+Referenced by Main\+Window\+::delete\+Player\+File(), Dialog2\+::load\+Player(), Main\+Window\+::load\+Player\+List(), Dialog\+::load\+Team(), Main\+Window\+::load\+Team\+List(), Main\+Window\+::save\+As(), and Main\+Window\+::save\+Players().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d34/class_list_a69893c5ca361f9502a0dc1c967612d02_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_adcdf869b2506e2332052eff47afc8412}{}\index{List@{List}!sort@{sort}}
+\index{sort@{sort}!List@{List}}
+\subsubsection[{sort}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ void {\bf List}$<$ T $>$\+::sort (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_list_adcdf869b2506e2332052eff47afc8412}
+
+
+sort insertion sort 
+
+
+
+References Node$<$ T $>$\+::info, and Node$<$ T $>$\+::next.
+
+
+
+Referenced by Main\+Window\+::sort\+Player\+List(), and Main\+Window\+::sort\+Team\+List().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=310pt]{d1/d34/class_list_adcdf869b2506e2332052eff47afc8412_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_a006226544e5e078fdb4207edac1fb154}{}\index{List@{List}!sort\+Desc@{sort\+Desc}}
+\index{sort\+Desc@{sort\+Desc}!List@{List}}
+\subsubsection[{sort\+Desc}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ void {\bf List}$<$ T $>$\+::sort\+Desc (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_list_a006226544e5e078fdb4207edac1fb154}
+
+
+References Node$<$ T $>$\+::info, and Node$<$ T $>$\+::next.
+
+
+
+Referenced by Main\+Window\+::sort\+Player\+List\+Desc(), and Main\+Window\+::sort\+Team\+List\+Desc().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d34/class_list_a006226544e5e078fdb4207edac1fb154_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_a398ec91dea02e47c2b85da531f165b25}{}\index{List@{List}!to\+Std@{to\+Std}}
+\index{to\+Std@{to\+Std}!List@{List}}
+\subsubsection[{to\+Std}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ std\+::string {\bf List}$<$ T $>$\+::to\+Std (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_list_a398ec91dea02e47c2b85da531f165b25}
+
+
+References Node$<$ T $>$\+::info, and Node$<$ T $>$\+::next.
+
+\hypertarget{class_list_aafb9d7588355abb7f730e2d89ac62a39}{}\index{List@{List}!write\+To\+Binary\+File@{write\+To\+Binary\+File}}
+\index{write\+To\+Binary\+File@{write\+To\+Binary\+File}!List@{List}}
+\subsubsection[{write\+To\+Binary\+File}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ bool {\bf List}$<$ T $>$\+::write\+To\+Binary\+File (
+\begin{DoxyParamCaption}
+\item[{const char $\ast$}]{file\+Name}
+\end{DoxyParamCaption}
+)}\label{class_list_aafb9d7588355abb7f730e2d89ac62a39}
+
+
+References Node$<$ T $>$\+::info, and Node$<$ T $>$\+::next.
+
+\hypertarget{class_list_a68ee91ea904d2c27f7a0d72e5bcfc841}{}\index{List@{List}!write\+To\+Binary\+File2@{write\+To\+Binary\+File2}}
+\index{write\+To\+Binary\+File2@{write\+To\+Binary\+File2}!List@{List}}
+\subsubsection[{write\+To\+Binary\+File2}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ bool {\bf List}$<$ T $>$\+::write\+To\+Binary\+File2 (
+\begin{DoxyParamCaption}
+\item[{const char $\ast$}]{file\+Name}
+\end{DoxyParamCaption}
+)}\label{class_list_a68ee91ea904d2c27f7a0d72e5bcfc841}
+
+
+References Node$<$ T $>$\+::info, and Node$<$ T $>$\+::next.
+
+
+
+Referenced by Main\+Window\+::save\+All(), Main\+Window\+::save\+As(), and Main\+Window\+::save\+Players().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d34/class_list_a68ee91ea904d2c27f7a0d72e5bcfc841_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_list_a7f7e47c88bc1aa43f6b5c5d3bc0ae534}{}\index{List@{List}!write\+To\+File@{write\+To\+File}}
+\index{write\+To\+File@{write\+To\+File}!List@{List}}
+\subsubsection[{write\+To\+File}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T $>$ bool {\bf List}$<$ T $>$\+::write\+To\+File (
+\begin{DoxyParamCaption}
+\item[{const char $\ast$}]{file\+Name}
+\end{DoxyParamCaption}
+)}\label{class_list_a7f7e47c88bc1aa43f6b5c5d3bc0ae534}
+
+
+References Node$<$ T $>$\+::info, and Node$<$ T $>$\+::next.
+
+
+
+Referenced by Main\+Window\+::save\+All(), Main\+Window\+::save\+As(), and Main\+Window\+::save\+Players().
+
+
+
+Here is the caller graph for this function\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d34/class_list_a7f7e47c88bc1aa43f6b5c5d3bc0ae534_icgraph}
+\end{center}
+\end{figure}
+
+
+
+
+\subsection{Member Data Documentation}
+\hypertarget{class_list_a004c46b3634b2b7d726c7abe4113dbaa}{}\index{List@{List}!liga\+\_\+@{liga\+\_\+}}
+\index{liga\+\_\+@{liga\+\_\+}!List@{List}}
+\subsubsection[{liga\+\_\+}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T$>$ {\bf Node}$<$T$>$$\ast$ {\bf List}$<$ T $>$\+::liga\+\_\+\hspace{0.3cm}{\ttfamily [private]}}\label{class_list_a004c46b3634b2b7d726c7abe4113dbaa}
+\hypertarget{class_list_a5296e3adef5445b4ac96f426bd1eba53}{}\index{List@{List}!lon\+\_\+@{lon\+\_\+}}
+\index{lon\+\_\+@{lon\+\_\+}!List@{List}}
+\subsubsection[{lon\+\_\+}]{\setlength{\rightskip}{0pt plus 5cm}template$<$class T$>$ size\+\_\+t {\bf List}$<$ T $>$\+::lon\+\_\+\hspace{0.3cm}{\ttfamily [private]}}\label{class_list_a5296e3adef5445b4ac96f426bd1eba53}
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{list_8h}{list.\+h}\item 
+\hyperlink{list_8cpp}{list.\+cpp}\end{DoxyCompactItemize}

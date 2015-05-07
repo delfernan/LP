@@ -1,0 +1,10 @@
+<map id="Dialog::setNode" name="Dialog::setNode">
+<area shape="rect" id="node3" href="$df/da9/class_dialog.html#a6f6564b3dab010fadb064d1bb46ac37c" title="Dialog::loadTeam" alt="" coords="168,157,291,184"/>
+<area shape="rect" id="node5" href="$d1/d35/class_team.html#ab312101d725492afb23e59bfaf7385ae" title="Team::getDerrotas" alt="" coords="358,5,487,32"/>
+<area shape="rect" id="node7" href="$d1/d35/class_team.html#a4ce48abf872a9edc65e8739696ff0172" title="Team::getEmpates" alt="" coords="357,56,489,83"/>
+<area shape="rect" id="node9" href="$d1/d35/class_team.html#af2cb553ca5d7cff6c99150227aa05ff3" title="Team::getGolesAFavor" alt="" coords="345,107,500,133"/>
+<area shape="rect" id="node11" href="$d1/d35/class_team.html#a078b78acbd9f55b9693489856a2846fe" title="Team::getGolesEnContra" alt="" coords="339,157,507,184"/>
+<area shape="rect" id="node13" href="$d1/d35/class_team.html#acd3112602057d3c2df5dc97b7edf23db" title="Team::getNombre" alt="" coords="360,208,485,235"/>
+<area shape="rect" id="node15" href="$d1/d35/class_team.html#a850c83b0e189300223e30e7f2a60f2b2" title="Team::getVictorias" alt="" coords="357,259,488,285"/>
+<area shape="rect" id="node17" href="$d1/d34/class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="366,309,479,336"/>
+</map>

@@ -1,9 +1,0 @@
-<map id="MainWindow" name="MainWindow">
-<area shape="rect" id="node4" href="$class_ui_1_1_main_window.html" title="Ui::MainWindow" alt="" coords="137,277,252,304"/>
-<area shape="rect" id="node6" href="$class_ui___main_window.html" title="Ui_MainWindow" alt="" coords="136,187,251,213"/>
-<area shape="rect" id="node8" href="$class_list.html" title="List\&lt; Team \&gt;" alt="" coords="277,277,376,304"/>
-<area shape="rect" id="node10" href="$class_node.html" title="Node\&lt; Team \&gt;" alt="" coords="275,187,383,213"/>
-<area shape="rect" id="node12" href="$class_node.html" title="Node\&lt; T \&gt;" alt="" coords="204,96,287,123"/>
-<area shape="rect" id="node17" href="$class_team.html" title="Team" alt="" coords="365,96,419,123"/>
-<area shape="rect" id="node19" href="$class_player.html" title="Player" alt="" coords="363,5,421,32"/>
-</map>
