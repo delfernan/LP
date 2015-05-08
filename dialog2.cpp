@@ -71,7 +71,7 @@ void Dialog2::callFunctionPlayer(){
   takePlayerFromUi(playerTemp);
   if (iNodeToEdit_){ // Modificar
     jugadores_->modify(iNodeToEdit_,playerTemp);
-    msgUser("OK","Item successfully changed.");
+    msgUser("OK","Item was successfully changed.");
   }else{ // Añadir
     //jugadores_->insertAfter(playerTemp);
     jugadores_->insertSorted(playerTemp);
