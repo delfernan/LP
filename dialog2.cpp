@@ -88,7 +88,7 @@ void Dialog2::searchPlayer(){
     setNode(iPosTemp);
     setMode(EDIT);
   }else{
-    msgUser("Player Not Found","There is no coincidence.");
+    msgUser("Player Not Found","There is no player coincidence.");
   }
 }
 void Dialog2::msgUser(const QString title, const QString message){
