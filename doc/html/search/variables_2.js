@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['centralwidget',['centralWidget',['../df/dd7/class_ui___main_window.html#a30075506c2116c3ed4ff25e07ae75f81',1,'Ui_MainWindow']]]
+  ['golesafavor',['golesAFavor',['../d1/d35/class_team.html#af84c67ce79cc5a92285739baa6b93e8b',1,'Team']]],
+  ['golesencontra',['golesEnContra',['../d1/d35/class_team.html#aa1afdfb306f4207e4cbd79fb56facfbf',1,'Team']]]
 ];

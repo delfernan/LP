@@ -17,7 +17,6 @@ var searchData=
   ['setngoles',['setNGoles',['../d8/d53/class_player.html#aeaa23561cac2c75d1f3cad94915f0835',1,'Player']]],
   ['setnode',['setNode',['../df/da9/class_dialog.html#a3fe34fdf51dce326e10b7b2eef8ae6ea',1,'Dialog::setNode()'],['../d8/dad/class_dialog2.html#afcb469b5706793d4048d621a0e4c3abd',1,'Dialog2::setNode()']]],
   ['setnombre',['setNombre',['../d8/d53/class_player.html#a3c26ab31dffaf71b9775459ae00e1735',1,'Player::setNombre()'],['../d1/d35/class_team.html#a4e2bdf61ee9103b54c01bf65a3300bed',1,'Team::setNombre()']]],
-  ['setupui',['setupUi',['../df/d1e/class_ui___dialog.html#a4f6a478c3ecdafabffb17b39cb26444a',1,'Ui_Dialog::setupUi()'],['../de/d0e/class_ui___dialog2.html#a6844bf81dbbb01d6eb47136862dccaa8',1,'Ui_Dialog2::setupUi()'],['../df/dd7/class_ui___main_window.html#acf4a0872c4c77d8f43a2ec66ed849b58',1,'Ui_MainWindow::setupUi()']]],
   ['setvictorias',['setVictorias',['../d1/d35/class_team.html#a43b0095989199cafdbdb1cf87a2eba2f',1,'Team']]],
   ['sort',['sort',['../d1/d34/class_list.html#adcdf869b2506e2332052eff47afc8412',1,'List']]],
   ['sortdesc',['sortDesc',['../d1/d34/class_list.html#a006226544e5e078fdb4207edac1fb154',1,'List']]],
