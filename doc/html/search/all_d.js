@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['qsdatafile_5f',['qsDataFile_',['../d9/dc6/class_main_window.html#accae73696fc981f52f13a1e51b411ccb',1,'MainWindow']]],
-  ['qsdatafileplayer_5f',['qsDataFilePlayer_',['../d9/dc6/class_main_window.html#aa4336777565d0c2a9ad6f0b96bc4c004',1,'MainWindow']]]
+  ['player',['Player',['../d8/d53/class_player.html',1,'Player'],['../d8/d53/class_player.html#affe0cc3cb714f6deb4e62f0c0d3f1fd8',1,'Player::Player()']]],
+  ['player_2ecpp',['player.cpp',['../db/d80/player_8cpp.html',1,'']]],
+  ['player_2eh',['player.h',['../d3/d62/player_8h.html',1,'']]]
 ];

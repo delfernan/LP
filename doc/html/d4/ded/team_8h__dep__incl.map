@@ -1,14 +1,17 @@
 <map id="team.h" name="team.h">
-<area shape="rect" id="node3" href="$d1/d77/node_8h.html" title="node.h" alt="" coords="129,80,191,107"/>
-<area shape="rect" id="node26" href="$d1/dea/team_8cpp.html" title="team.cpp" alt="" coords="215,80,291,107"/>
-<area shape="rect" id="node5" href="$d7/d70/node_8cpp.html" title="node.cpp" alt="" coords="123,155,197,181"/>
-<area shape="rect" id="node7" href="$da/d23/list_8h.html" title="list.h" alt="" coords="135,229,185,256"/>
-<area shape="rect" id="node9" href="$d1/dd9/list_8cpp.html" title="list.cpp" alt="" coords="128,304,192,331"/>
-<area shape="rect" id="node11" href="$d1/dc9/dialog_8h.html" title="dialog.h" alt="" coords="80,379,147,405"/>
-<area shape="rect" id="node21" href="$d5/ddf/dialog2_8h.html" title="dialog2.h" alt="" coords="171,379,245,405"/>
+<area shape="rect" id="node3" href="$d1/d77/node_8h.html" title="node.h" alt="" coords="220,80,281,107"/>
+<area shape="rect" id="node32" href="$d1/dea/team_8cpp.html" title="team.cpp" alt="" coords="306,80,381,107"/>
+<area shape="rect" id="node5" href="$d7/d70/node_8cpp.html" title="node.cpp" alt="" coords="213,155,288,181"/>
+<area shape="rect" id="node7" href="$da/d23/list_8h.html" title="list.h" alt="" coords="225,229,276,256"/>
+<area shape="rect" id="node9" href="$d1/dd9/list_8cpp.html" title="list.cpp" alt="" coords="219,304,283,331"/>
+<area shape="rect" id="node11" href="$d1/dc9/dialog_8h.html" title="dialog.h" alt="" coords="152,379,219,405"/>
+<area shape="rect" id="node25" href="$d5/ddf/dialog2_8h.html" title="dialog2.h" alt="" coords="321,379,396,405"/>
 <area shape="rect" id="node13" href="$de/dfa/dialog_8cpp.html" title="dialog.cpp" alt="" coords="5,453,85,480"/>
-<area shape="rect" id="node15" href="$d9/d53/mainwindow_8h.html" title="mainwindow.h" alt="" coords="110,453,212,480"/>
-<area shape="rect" id="node17" href="$df/d0a/main_8cpp.html" title="main.cpp" alt="" coords="64,528,139,555"/>
-<area shape="rect" id="node19" href="$d8/dd9/mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="163,528,280,555"/>
-<area shape="rect" id="node23" href="$dd/d57/dialog2_8cpp.html" title="dialog2.cpp" alt="" coords="237,453,325,480"/>
+<area shape="rect" id="node15" href="$d9/d53/mainwindow_8h.html" title="mainwindow.h" alt="" coords="247,453,349,480"/>
+<area shape="rect" id="node23" href="$d2/d08/moc__dialog_8cpp.html" title="moc_dialog.cpp" alt="" coords="110,453,223,480"/>
+<area shape="rect" id="node17" href="$df/d0a/main_8cpp.html" title="main.cpp" alt="" coords="141,528,216,555"/>
+<area shape="rect" id="node19" href="$d8/dd9/mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="240,528,357,555"/>
+<area shape="rect" id="node21" href="$d9/d09/moc__mainwindow_8cpp.html" title="moc_mainwindow.cpp" alt="" coords="381,528,531,555"/>
+<area shape="rect" id="node27" href="$dd/d57/dialog2_8cpp.html" title="dialog2.cpp" alt="" coords="375,453,463,480"/>
+<area shape="rect" id="node30" href="$d3/df3/moc__dialog2_8cpp.html" title="moc_dialog2.cpp" alt="" coords="487,453,607,480"/>
 </map>

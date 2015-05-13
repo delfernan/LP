@@ -1,4 +1,23 @@
 var searchData=
 [
-  ['victorias',['victorias',['../d1/d35/class_team.html#ab6444e3430b98ec88a91a841ee7788d8',1,'Team']]]
+  ['ldraws',['lDraws',['../df/d1e/class_ui___dialog.html#a7bd37147765f438a8c23dbc8e7b0fd3a',1,'Ui_Dialog']]],
+  ['ledraws',['leDraws',['../df/d1e/class_ui___dialog.html#a884e7aabd14cfbaeb49a967e16dae6cc',1,'Ui_Dialog']]],
+  ['legoals',['leGoals',['../df/d1e/class_ui___dialog.html#aa57700d2b5361fec01d869b72711a933',1,'Ui_Dialog']]],
+  ['legoalsa',['leGoalsA',['../df/d1e/class_ui___dialog.html#a0bbec6c46dabbb4ad8a3269780bbe238',1,'Ui_Dialog']]],
+  ['lelosses',['leLosses',['../df/d1e/class_ui___dialog.html#a6598d0ce4fee8652cd9a8456de1c0ebe',1,'Ui_Dialog']]],
+  ['leplayer',['lePlayer',['../de/d0e/class_ui___dialog2.html#ad162dcfb64716385a50954e495e7c49d',1,'Ui_Dialog2']]],
+  ['leplayerg',['lePlayerG',['../de/d0e/class_ui___dialog2.html#a43afbca4fe8ee4a670b656404bc2f48e',1,'Ui_Dialog2']]],
+  ['leteam',['leTeam',['../df/d1e/class_ui___dialog.html#a3be40225f286cfb11e01a180ed40e1fc',1,'Ui_Dialog']]],
+  ['lewins',['leWins',['../df/d1e/class_ui___dialog.html#a7f3b4fab638a423dd8f2c04842fb7b8b',1,'Ui_Dialog']]],
+  ['lgoals',['lGoals',['../df/d1e/class_ui___dialog.html#aaec0030aedf724c298c9ae002df6b9c5',1,'Ui_Dialog']]],
+  ['lgoalsa',['lGoalsA',['../df/d1e/class_ui___dialog.html#afb796c00602fbfb12d969d217dbd9d26',1,'Ui_Dialog']]],
+  ['liga_5f',['liga_',['../df/da9/class_dialog.html#a91cdee063ecd915858353d07f2e50eb2',1,'Dialog::liga_()'],['../d1/d34/class_list.html#a004c46b3634b2b7d726c7abe4113dbaa',1,'List::liga_()'],['../d9/dc6/class_main_window.html#a5358b34e5fbb97d75dc06c61e7ae50fb',1,'MainWindow::liga_()']]],
+  ['llosses',['lLosses',['../df/d1e/class_ui___dialog.html#a3562c3fc6bcff7beb1d9bf6302760f87',1,'Ui_Dialog']]],
+  ['lon_5f',['lon_',['../d1/d34/class_list.html#a5296e3adef5445b4ac96f426bd1eba53',1,'List']]],
+  ['lplayer',['lPlayer',['../de/d0e/class_ui___dialog2.html#ae1ec14f69f0c7973147839a3111995d4',1,'Ui_Dialog2']]],
+  ['lplayerg',['lPlayerG',['../de/d0e/class_ui___dialog2.html#a82819233e3af6d903c4d2599dd29b83f',1,'Ui_Dialog2']]],
+  ['lstwplayer',['lstwPlayer',['../df/dd7/class_ui___main_window.html#a882b43c38a46678a866017cc7afcb227',1,'Ui_MainWindow']]],
+  ['lstwteam',['lstwTeam',['../df/dd7/class_ui___main_window.html#a18474f46054d16d420125e914595bf3a',1,'Ui_MainWindow']]],
+  ['lteam',['lTeam',['../df/d1e/class_ui___dialog.html#a4419be090ba293f0442cce11fefde939',1,'Ui_Dialog']]],
+  ['lwins',['lWins',['../df/d1e/class_ui___dialog.html#a33a17f4fc1e7dde797d5cce1d08f4843',1,'Ui_Dialog']]]
 ];

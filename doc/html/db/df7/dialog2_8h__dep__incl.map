@@ -1,6 +1,8 @@
 <map id="dialog2.h" name="dialog2.h">
 <area shape="rect" id="node3" href="$dd/d57/dialog2_8cpp.html" title="dialog2.cpp" alt="" coords="5,80,93,107"/>
 <area shape="rect" id="node5" href="$d9/d53/mainwindow_8h.html" title="mainwindow.h" alt="" coords="118,80,220,107"/>
-<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html" title="main.cpp" alt="" coords="72,155,147,181"/>
-<area shape="rect" id="node9" href="$d8/dd9/mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="171,155,288,181"/>
+<area shape="rect" id="node13" href="$d3/df3/moc__dialog2_8cpp.html" title="moc_dialog2.cpp" alt="" coords="245,80,365,107"/>
+<area shape="rect" id="node7" href="$df/d0a/main_8cpp.html" title="main.cpp" alt="" coords="12,155,87,181"/>
+<area shape="rect" id="node9" href="$d8/dd9/mainwindow_8cpp.html" title="mainwindow.cpp" alt="" coords="111,155,228,181"/>
+<area shape="rect" id="node11" href="$d9/d09/moc__mainwindow_8cpp.html" title="moc_mainwindow.cpp" alt="" coords="252,155,401,181"/>
 </map>

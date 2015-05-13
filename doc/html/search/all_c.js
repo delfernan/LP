@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['player',['Player',['../d8/d53/class_player.html',1,'Player'],['../d8/d53/class_player.html#affe0cc3cb714f6deb4e62f0c0d3f1fd8',1,'Player::Player()']]],
-  ['player_2ecpp',['player.cpp',['../db/d80/player_8cpp.html',1,'']]],
-  ['player_2eh',['player.h',['../d3/d62/player_8h.html',1,'']]]
+  ['openfile',['openFile',['../d9/dc6/class_main_window.html#a288b768c3c21a9171bdc56fe845ece8b',1,'MainWindow']]]
 ];

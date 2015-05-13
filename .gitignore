@@ -1,1 +1,10 @@
 *.user
+*.o
+release/moc_dialog.cpp
+Makefile
+*.Debug
+*.Release
+release/moc_dialog2.cpp
+release/moc_mainwindow.cpp
+ui_dialog.h
+ui_dialog2.h

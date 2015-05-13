@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['idteam_5f',['idTeam_',['../df/da9/class_dialog.html#af05db46d671e032a4e51e4068f32fb06',1,'Dialog']]],
-  ['info',['info',['../dc/d8f/class_node.html#a21995784db5e7ad18061f631c5875635',1,'Node']]],
-  ['inodetoedit_5f',['iNodeToEdit_',['../df/da9/class_dialog.html#a77bd4ac2499af67029f8f00d682ffde9',1,'Dialog::iNodeToEdit_()'],['../d8/dad/class_dialog2.html#a8fb4a8ae79e9aa259a175b61bef0a977',1,'Dialog2::iNodeToEdit_()']]],
-  ['iselectedteam_5f',['iSelectedTeam_',['../d9/dc6/class_main_window.html#ab6d6da80222e139234012a2a39f72522',1,'MainWindow']]]
+  ['data',['data',['../d6/d1f/structqt__meta__stringdata___dialog__t.html#ae8df3bc8b623c73ab4d9b75541fe0ed8',1,'qt_meta_stringdata_Dialog_t::data()'],['../dc/d8e/structqt__meta__stringdata___dialog2__t.html#a69b0d4bf9e36d06fbed3232e57c8aa23',1,'qt_meta_stringdata_Dialog2_t::data()'],['../dd/dfe/structqt__meta__stringdata___main_window__t.html#afd67093eee085680898ad79aa678a6fe',1,'qt_meta_stringdata_MainWindow_t::data()']]],
+  ['derrotas',['derrotas',['../d1/d35/class_team.html#a2c6bb859be1056676938805863968dad',1,'Team']]]
 ];

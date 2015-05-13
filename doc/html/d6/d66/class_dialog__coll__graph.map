@@ -1,7 +1,9 @@
 <map id="Dialog" name="Dialog">
-<area shape="rect" id="node4" href="$d1/d34/class_list.html" title="{List\&lt; Team \&gt;\n|&#45; lon_\l|+ List()\l+ ~List()\l+ isEmpty()\l+ length()\l+ insertAfter()\l+ insert()\l+ searchPos()\l+ modify()\l+ erase()\l+ copy()\land 12 more...\l&#45; init()\l}" alt="" coords="144,841,251,1079"/>
+<area shape="rect" id="node4" href="$d1/d34/class_list.html" title="{List\&lt; Team \&gt;\n|&#45; lon_\l|+ List()\l+ ~List()\l+ isEmpty()\l+ length()\l+ insertAfter()\l+ insert()\l+ searchPos()\l+ modify()\l+ erase()\l+ copy()\land 12 more...\l&#45; init()\l}" alt="" coords="193,841,300,1079"/>
 <area shape="rect" id="node6" href="$dc/d8f/class_node.html" title="{Node\&lt; Team \&gt;\n||+ Node()\l+ Node()\l+ ~Node()\l}" alt="" coords="61,596,168,703"/>
 <area shape="rect" id="node8" href="$dc/d8f/class_node.html" title="{Node\&lt; T \&gt;\n||+ Node()\l+ Node()\l+ ~Node()\l}" alt="" coords="5,249,88,356"/>
 <area shape="rect" id="node13" href="$d1/d35/class_team.html" title="{Team\n|&#45; nombre\l&#45; victorias\l&#45; derrotas\l&#45; empates\l&#45; golesAFavor\l&#45; golesEnContra\l|+ Team()\l+ ~Team()\l+ getNombre()\l+ setNombre()\l+ getVictorias()\l+ setVictorias()\l+ getDerrotas()\l+ setDerrotas()\l+ getEmpates()\l+ setEmpates()\land 11 more...\l&#45; calculaPuntos()\l}" alt="" coords="173,147,293,459"/>
 <area shape="rect" id="node16" href="$d1/d34/class_list.html" title="{List\&lt; T \&gt;\n|&#45; liga_\l&#45; lon_\l|+ List()\l+ ~List()\l+ isEmpty()\l+ length()\l+ insertAfter()\l+ insert()\l+ searchPos()\l+ modify()\l+ erase()\l+ copy()\land 12 more...\l&#45; init()\l}" alt="" coords="193,523,300,776"/>
+<area shape="rect" id="node18" href="$dd/dbe/class_ui_1_1_dialog.html" title="{Ui::Dialog\n||}" alt="" coords="333,921,411,999"/>
+<area shape="rect" id="node20" href="$df/d1e/class_ui___dialog.html" title="{Ui_Dialog\n|+ gridLayout\l+ lTeam\l+ lWins\l+ lLosses\l+ leTeam\l+ leWins\l+ leLosses\l+ lDraws\l+ lGoals\l+ lGoalsA\land 7 more...\l|+ setupUi()\l+ retranslateUi()\l}" alt="" coords="324,530,439,769"/>
 </map>

@@ -1,14 +1,28 @@
+/**
+ * @file mainwindow.h
+ * @author  Fernando Aparicio Galisteo fernando.aparicio@uem.es
+ * @version 1.0
+ *
+ * @section LICENSE
+ * Copyright 2015 Fernando Aparicio Galisteo Licensed under the
+ * Educational Community License, Version 2.0 (the "License"); you may
+ * not use this file except in compliance with the License. You may
+ * obtain a copy of the License at
+ *
+ * http://www.osedu.org/licenses/ECL-2.0
+ *
+ */
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 #define DEFAULT_DATA_TEAM_FILE "equipos"
 #define DEFAULT_DATA_PLAYER_FILE "jugadores"
 #define DEFAULT_DATA_FILE_EXT ".txt"
-//#define DEFAULT_DATA_DIR "data"
-//#define BINARY_FILE false
+#define DEFAULT_DATA_DIR "data"
+#define BINARY_FILE false
 //#define DEFAULT_DATA_DIR "binaryData"
 //#define BINARY_FILE true
-#define DEFAULT_DATA_DIR "binaryData2"
-#define BINARY_FILE true
+//#define DEFAULT_DATA_DIR "binaryData2"
+//#define BINARY_FILE true
 #include <QMainWindow>
 #include <QFileDialog>
 #include <QMessageBox>
