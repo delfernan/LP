@@ -1,3 +1,19 @@
+/**
+ * @file list.cpp
+ * @author  Fernando Aparicio Galisteo fernando.aparicio@uem.es
+ * @version 1.0
+ * @date 2012-2015
+ * @brief List class
+ * @copyright ECL-2.
+ * @section LICENSE
+ * Copyright 2015 Fernando Aparicio Galisteo Licensed under the
+ * Educational Community License, Version 2.0 (the "License"); you may
+ * not use this file except in compliance with the License. You may
+ * obtain a copy of the License at
+ *
+ * http://www.osedu.org/licenses/ECL-2.0
+ *
+ */
 #ifndef LIST_CPP
 #define LIST_CPP
 #include "list.h"

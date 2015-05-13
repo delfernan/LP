@@ -30,24 +30,38 @@ SolidCompression=yes
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
 
+[Types]
+Name: "full"; Description: "Full installation"
+Name: "compact"; Description: "Compact installation"
+Name: "custom"; Description: "Custom installation"; Flags: iscustom
+
+[Components]
+Name: "program"; Description: "Program Files"; Types: full compact custom; Flags: fixed
+Name: "doc"; Description: "Documentation"; Types: full
+Name: "license"; Description: "License File"; Types: full
+Name: "data"; Description: "Data Files"; Types: full
+Name: "source"; Description: "Source Files"; Types: full
+
 [Tasks]
 Name: "desktopicon"; Description: "{cm:CreateDesktopIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked
 Name: "quicklaunchicon"; Description: "{cm:CreateQuickLaunchIcon}"; GroupDescription: "{cm:AdditionalIcons}"; Flags: unchecked; OnlyBelowVersion: 0,6.1
 
 [Files]
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\release\LP.exe"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\release\icudt53.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\release\icuin53.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\release\icuuc53.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\release\libgcc_s_dw2-1.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\release\libstdc++-6.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\release\libwinpthread-1.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\release\Qt5Core.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\release\Qt5Gui.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\release\Qt5Widgets.dll"; DestDir: "{app}"; Flags: ignoreversion
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\release\platforms\*"; DestDir: "{app}\platforms"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\doc\*"; DestDir: "{app}\doc"; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\data\*"; DestDir: "{app}\data"; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "release\LP.exe"; DestDir: "{app}"; Components: program; Flags: ignoreversion
+Source: "release\icudt53.dll"; DestDir: "{app}"; Components: program; Flags: ignoreversion
+Source: "release\icuin53.dll"; DestDir: "{app}"; Components: program; Flags: ignoreversion
+Source: "release\icuuc53.dll"; DestDir: "{app}"; Components: program; Flags: ignoreversion
+Source: "release\libgcc_s_dw2-1.dll"; DestDir: "{app}"; Components: program; Flags: ignoreversion
+Source: "release\libstdc++-6.dll"; DestDir: "{app}"; Components: program; Flags: ignoreversion
+Source: "release\libwinpthread-1.dll"; DestDir: "{app}"; Components: program; Flags: ignoreversion
+Source: "release\Qt5Core.dll"; DestDir: "{app}"; Components: program; Flags: ignoreversion
+Source: "release\Qt5Gui.dll"; DestDir: "{app}"; Components: program; Flags: ignoreversion
+Source: "release\Qt5Widgets.dll"; DestDir: "{app}"; Components: program; Flags: ignoreversion
+Source: "release\platforms\*"; DestDir: "{app}\platforms"; Components: program; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "doc\*"; DestDir: "{app}\doc"; Components: doc; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "data\*"; DestDir: "{app}\data"; Components: data; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "LICENSE*"; DestDir: "{app}"; Components: license; Flags: ignoreversion recursesubdirs createallsubdirs isreadme
+Source: "*.cpp;*.h"; DestDir: "{app}\source"; Components: source; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]

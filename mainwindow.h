@@ -2,7 +2,9 @@
  * @file mainwindow.h
  * @author  Fernando Aparicio Galisteo fernando.aparicio@uem.es
  * @version 1.0
- *
+ * @date 2012-2015
+ * @brief The MainWindow class
+ * @copyright ECL-2.
  * @section LICENSE
  * Copyright 2015 Fernando Aparicio Galisteo Licensed under the
  * Educational Community License, Version 2.0 (the "License"); you may
@@ -34,9 +36,7 @@
 namespace Ui {
   class MainWindow;
 }
-/**
- * @brief The MainWindow class
- */
+
 class MainWindow : public QMainWindow
 {
   Q_OBJECT
