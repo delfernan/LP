@@ -1,0 +1,16 @@
+<map id="player.h" name="player.h">
+<area shape="rect" id="node3" href="$de/deb/team_8h.html" title="team.h" alt="" coords="175,80,237,107"/>
+<area shape="rect" id="node30" href="$db/d80/player_8cpp.html" title="Player object. " alt="" coords="263,80,345,107"/>
+<area shape="rect" id="node5" href="$d1/d77/node_8h.html" title="node.h" alt="" coords="129,155,191,181"/>
+<area shape="rect" id="node28" href="$d1/dea/team_8cpp.html" title="Team object. " alt="" coords="215,155,291,181"/>
+<area shape="rect" id="node7" href="$d7/d70/node_8cpp.html" title="Node class. " alt="" coords="123,229,197,256"/>
+<area shape="rect" id="node9" href="$da/d23/list_8h.html" title="list.h" alt="" coords="135,304,185,331"/>
+<area shape="rect" id="node11" href="$d1/dd9/list_8cpp.html" title="List class. " alt="" coords="128,379,192,405"/>
+<area shape="rect" id="node13" href="$d1/dc9/dialog_8h.html" title="dialog.h" alt="" coords="80,453,147,480"/>
+<area shape="rect" id="node23" href="$d5/ddf/dialog2_8h.html" title="dialog2.h" alt="" coords="171,453,245,480"/>
+<area shape="rect" id="node15" href="$de/dfa/dialog_8cpp.html" title="Team Dialog. " alt="" coords="5,528,85,555"/>
+<area shape="rect" id="node17" href="$d9/d53/mainwindow_8h.html" title="The MainWindow class. " alt="" coords="110,528,212,555"/>
+<area shape="rect" id="node19" href="$df/d0a/main_8cpp.html" title="main.cpp" alt="" coords="64,603,139,629"/>
+<area shape="rect" id="node21" href="$d8/dd9/mainwindow_8cpp.html" title="The MainWindow class. " alt="" coords="163,603,280,629"/>
+<area shape="rect" id="node25" href="$dd/d57/dialog2_8cpp.html" title="Player Dialog. " alt="" coords="237,528,325,555"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Player::getNombre" name="Player::getNombre">
+<area shape="rect" id="node3" href="$d8/dad/class_dialog2.html#a0de735354c5eab3294223f035bb14cad" title="Dialog2::loadPlayer" alt="" coords="185,31,319,57"/>
+<area shape="rect" id="node5" href="$d8/dad/class_dialog2.html#afcb469b5706793d4048d621a0e4c3abd" title="Dialog2::setNode" alt="" coords="369,31,490,57"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a22c2cf54c567c2de6ec7bd6f7c79ced8" title="editTeam Edit the selected team " alt="" coords="539,5,701,32"/>
+<area shape="rect" id="node9" href="$d8/dad/class_dialog2.html#a4de4b4481a18d1001ac600a4fdcd4256" title="Dialog2::searchPlayer" alt="" coords="545,56,695,83"/>
+</map>

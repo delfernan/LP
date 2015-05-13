@@ -1,0 +1,624 @@
+\hypertarget{class_team}{}\section{Team Class Reference}
+\label{class_team}\index{Team@{Team}}
+
+
+{\ttfamily \#include $<$team.\+h$>$}
+
+
+
+Collaboration diagram for Team\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=170pt]{d1/d3f/class_team__coll__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+\hyperlink{class_team_aada295895b747960576b69d8c87a54ba}{Team} ()
+\item 
+\hyperlink{class_team_ab4218fddd612d52bab47bec4feeb49de}{$\sim$\+Team} ()
+\item 
+const char $\ast$ \hyperlink{class_team_acd3112602057d3c2df5dc97b7edf23db}{get\+Nombre} () const 
+\item 
+void \hyperlink{class_team_a4e2bdf61ee9103b54c01bf65a3300bed}{set\+Nombre} (const char $\ast$value)
+\item 
+int \hyperlink{class_team_a850c83b0e189300223e30e7f2a60f2b2}{get\+Victorias} () const 
+\item 
+void \hyperlink{class_team_a43b0095989199cafdbdb1cf87a2eba2f}{set\+Victorias} (int value)
+\item 
+int \hyperlink{class_team_ab312101d725492afb23e59bfaf7385ae}{get\+Derrotas} () const 
+\item 
+void \hyperlink{class_team_a0e8272a4c5127fcd4be5444dd22cda9f}{set\+Derrotas} (int value)
+\item 
+int \hyperlink{class_team_a4ce48abf872a9edc65e8739696ff0172}{get\+Empates} () const 
+\item 
+void \hyperlink{class_team_a9dfa2c82540d9321e6cafb6acded557f}{set\+Empates} (int value)
+\item 
+int \hyperlink{class_team_af2cb553ca5d7cff6c99150227aa05ff3}{get\+Goles\+A\+Favor} () const 
+\item 
+void \hyperlink{class_team_af21b432f707a656148c6626f105a93cc}{set\+Goles\+A\+Favor} (int value)
+\item 
+int \hyperlink{class_team_a078b78acbd9f55b9693489856a2846fe}{get\+Goles\+En\+Contra} () const 
+\item 
+void \hyperlink{class_team_a68c254ae21bea1353f5398b9858e7ff6}{set\+Goles\+En\+Contra} (int value)
+\item 
+void \hyperlink{class_team_a6a01d394b9a3b4bfa70c5f3e97b87838}{read\+From\+File} (std\+::fstream \&f)
+\item 
+void \hyperlink{class_team_ab4c45dc605b73e2e45b99c58b2057a78}{write\+To\+File} (std\+::fstream \&f)
+\item 
+void \hyperlink{class_team_a08fa8e9c4ba4913520597ae57998910f}{read\+From\+Binary\+File} (std\+::fstream \&f)
+\item 
+void \hyperlink{class_team_a62b8bf4f0af5579461d0667ed5dfda4f}{write\+To\+Binary\+File} (std\+::fstream \&f)
+\item 
+std\+::string \hyperlink{class_team_a1030dce9ad53dc47351a3fa44980b77b}{to\+Std} ()
+\item 
+int \hyperlink{class_team_a7df766985a420a79a13767265d0ced85}{compare\+Name} (\hyperlink{class_team}{Team} e)
+\item 
+bool \hyperlink{class_team_aefc53486468ddf341ad1d2ad3e0578d4}{compare\+Points} (\hyperlink{class_team}{Team} e)
+\end{DoxyCompactItemize}
+\subsection*{Private Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+int \hyperlink{class_team_aaca5bb9a0ce8a775d590d297c772d3bd}{calcula\+Puntos} ()
+\end{DoxyCompactItemize}
+\subsection*{Private Attributes}
+\begin{DoxyCompactItemize}
+\item 
+char \hyperlink{class_team_a8d210ec74ccdfe830c485eddc6ac76db}{nombre} \mbox{[}\hyperlink{player_8h_abdc276a3da6aba2279ae3e4a69731d9f}{M\+A\+X\+\_\+\+N\+A\+M\+E\+\_\+\+S\+I\+Z\+E}\mbox{]}
+\item 
+int \hyperlink{class_team_ab6444e3430b98ec88a91a841ee7788d8}{victorias}
+\item 
+int \hyperlink{class_team_a2c6bb859be1056676938805863968dad}{derrotas}
+\item 
+int \hyperlink{class_team_af9d642c2765645b9886ce332b0d9f2c8}{empates}
+\item 
+int \hyperlink{class_team_af84c67ce79cc5a92285739baa6b93e8b}{goles\+A\+Favor}
+\item 
+int \hyperlink{class_team_aa1afdfb306f4207e4cbd79fb56facfbf}{goles\+En\+Contra}
+\end{DoxyCompactItemize}
+
+
+\subsection{Constructor \& Destructor Documentation}
+\hypertarget{class_team_aada295895b747960576b69d8c87a54ba}{}\index{Team@{Team}!Team@{Team}}
+\index{Team@{Team}!Team@{Team}}
+\subsubsection[{Team}]{\setlength{\rightskip}{0pt plus 5cm}Team\+::\+Team (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_team_aada295895b747960576b69d8c87a54ba}
+
+
+References derrotas, empates, goles\+A\+Favor, goles\+En\+Contra, and victorias.
+
+\hypertarget{class_team_ab4218fddd612d52bab47bec4feeb49de}{}\index{Team@{Team}!````~Team@{$\sim$\+Team}}
+\index{````~Team@{$\sim$\+Team}!Team@{Team}}
+\subsubsection[{$\sim$\+Team}]{\setlength{\rightskip}{0pt plus 5cm}Team\+::$\sim$\+Team (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_team_ab4218fddd612d52bab47bec4feeb49de}
+
+
+\subsection{Member Function Documentation}
+\hypertarget{class_team_aaca5bb9a0ce8a775d590d297c772d3bd}{}\index{Team@{Team}!calcula\+Puntos@{calcula\+Puntos}}
+\index{calcula\+Puntos@{calcula\+Puntos}!Team@{Team}}
+\subsubsection[{calcula\+Puntos}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::calcula\+Puntos (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)\hspace{0.3cm}{\ttfamily [private]}}\label{class_team_aaca5bb9a0ce8a775d590d297c772d3bd}
+
+
+References empates, and victorias.
+
+
+
+Referenced by compare\+Points(), and to\+Std().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_aaca5bb9a0ce8a775d590d297c772d3bd_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_a7df766985a420a79a13767265d0ced85}{}\index{Team@{Team}!compare\+Name@{compare\+Name}}
+\index{compare\+Name@{compare\+Name}!Team@{Team}}
+\subsubsection[{compare\+Name}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::compare\+Name (
+\begin{DoxyParamCaption}
+\item[{{\bf Team}}]{e}
+\end{DoxyParamCaption}
+)}\label{class_team_a7df766985a420a79a13767265d0ced85}
+
+
+References nombre.
+
+\hypertarget{class_team_aefc53486468ddf341ad1d2ad3e0578d4}{}\index{Team@{Team}!compare\+Points@{compare\+Points}}
+\index{compare\+Points@{compare\+Points}!Team@{Team}}
+\subsubsection[{compare\+Points}]{\setlength{\rightskip}{0pt plus 5cm}bool Team\+::compare\+Points (
+\begin{DoxyParamCaption}
+\item[{{\bf Team}}]{e}
+\end{DoxyParamCaption}
+)}\label{class_team_aefc53486468ddf341ad1d2ad3e0578d4}
+
+
+References calcula\+Puntos().
+
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=336pt]{d1/d35/class_team_aefc53486468ddf341ad1d2ad3e0578d4_cgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_ab312101d725492afb23e59bfaf7385ae}{}\index{Team@{Team}!get\+Derrotas@{get\+Derrotas}}
+\index{get\+Derrotas@{get\+Derrotas}!Team@{Team}}
+\subsubsection[{get\+Derrotas}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::get\+Derrotas (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+) const}\label{class_team_ab312101d725492afb23e59bfaf7385ae}
+
+
+References derrotas.
+
+
+
+Referenced by Dialog\+::load\+Team().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_ab312101d725492afb23e59bfaf7385ae_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_a4ce48abf872a9edc65e8739696ff0172}{}\index{Team@{Team}!get\+Empates@{get\+Empates}}
+\index{get\+Empates@{get\+Empates}!Team@{Team}}
+\subsubsection[{get\+Empates}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::get\+Empates (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+) const}\label{class_team_a4ce48abf872a9edc65e8739696ff0172}
+
+
+References empates.
+
+
+
+Referenced by Dialog\+::load\+Team().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_a4ce48abf872a9edc65e8739696ff0172_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_af2cb553ca5d7cff6c99150227aa05ff3}{}\index{Team@{Team}!get\+Goles\+A\+Favor@{get\+Goles\+A\+Favor}}
+\index{get\+Goles\+A\+Favor@{get\+Goles\+A\+Favor}!Team@{Team}}
+\subsubsection[{get\+Goles\+A\+Favor}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::get\+Goles\+A\+Favor (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+) const}\label{class_team_af2cb553ca5d7cff6c99150227aa05ff3}
+
+
+References goles\+A\+Favor.
+
+
+
+Referenced by Dialog\+::load\+Team().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_af2cb553ca5d7cff6c99150227aa05ff3_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_a078b78acbd9f55b9693489856a2846fe}{}\index{Team@{Team}!get\+Goles\+En\+Contra@{get\+Goles\+En\+Contra}}
+\index{get\+Goles\+En\+Contra@{get\+Goles\+En\+Contra}!Team@{Team}}
+\subsubsection[{get\+Goles\+En\+Contra}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::get\+Goles\+En\+Contra (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+) const}\label{class_team_a078b78acbd9f55b9693489856a2846fe}
+
+
+References goles\+En\+Contra.
+
+
+
+Referenced by Dialog\+::load\+Team().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_a078b78acbd9f55b9693489856a2846fe_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_acd3112602057d3c2df5dc97b7edf23db}{}\index{Team@{Team}!get\+Nombre@{get\+Nombre}}
+\index{get\+Nombre@{get\+Nombre}!Team@{Team}}
+\subsubsection[{get\+Nombre}]{\setlength{\rightskip}{0pt plus 5cm}const char $\ast$ Team\+::get\+Nombre (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+) const}\label{class_team_acd3112602057d3c2df5dc97b7edf23db}
+
+
+References nombre.
+
+
+
+Referenced by Main\+Window\+::delete\+Player\+File(), Main\+Window\+::load\+Player\+List(), Dialog\+::load\+Team(), Main\+Window\+::save\+As(), and Main\+Window\+::save\+Players().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_acd3112602057d3c2df5dc97b7edf23db_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_a850c83b0e189300223e30e7f2a60f2b2}{}\index{Team@{Team}!get\+Victorias@{get\+Victorias}}
+\index{get\+Victorias@{get\+Victorias}!Team@{Team}}
+\subsubsection[{get\+Victorias}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::get\+Victorias (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+) const}\label{class_team_a850c83b0e189300223e30e7f2a60f2b2}
+
+
+References victorias.
+
+
+
+Referenced by Dialog\+::load\+Team().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_a850c83b0e189300223e30e7f2a60f2b2_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_a08fa8e9c4ba4913520597ae57998910f}{}\index{Team@{Team}!read\+From\+Binary\+File@{read\+From\+Binary\+File}}
+\index{read\+From\+Binary\+File@{read\+From\+Binary\+File}!Team@{Team}}
+\subsubsection[{read\+From\+Binary\+File}]{\setlength{\rightskip}{0pt plus 5cm}void Team\+::read\+From\+Binary\+File (
+\begin{DoxyParamCaption}
+\item[{std\+::fstream \&}]{f}
+\end{DoxyParamCaption}
+)}\label{class_team_a08fa8e9c4ba4913520597ae57998910f}
+
+
+References derrotas, empates, goles\+A\+Favor, goles\+En\+Contra, nombre, and victorias.
+
+\hypertarget{class_team_a6a01d394b9a3b4bfa70c5f3e97b87838}{}\index{Team@{Team}!read\+From\+File@{read\+From\+File}}
+\index{read\+From\+File@{read\+From\+File}!Team@{Team}}
+\subsubsection[{read\+From\+File}]{\setlength{\rightskip}{0pt plus 5cm}void Team\+::read\+From\+File (
+\begin{DoxyParamCaption}
+\item[{std\+::fstream \&}]{f}
+\end{DoxyParamCaption}
+)}\label{class_team_a6a01d394b9a3b4bfa70c5f3e97b87838}
+
+
+References derrotas, empates, goles\+A\+Favor, goles\+En\+Contra, M\+A\+X\+\_\+\+N\+A\+M\+E\+\_\+\+S\+I\+Z\+E, nombre, and victorias.
+
+\hypertarget{class_team_a0e8272a4c5127fcd4be5444dd22cda9f}{}\index{Team@{Team}!set\+Derrotas@{set\+Derrotas}}
+\index{set\+Derrotas@{set\+Derrotas}!Team@{Team}}
+\subsubsection[{set\+Derrotas}]{\setlength{\rightskip}{0pt plus 5cm}void Team\+::set\+Derrotas (
+\begin{DoxyParamCaption}
+\item[{int}]{value}
+\end{DoxyParamCaption}
+)}\label{class_team_a0e8272a4c5127fcd4be5444dd22cda9f}
+
+
+References derrotas.
+
+
+
+Referenced by Dialog\+::take\+Team\+From\+Ui().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_a0e8272a4c5127fcd4be5444dd22cda9f_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_a9dfa2c82540d9321e6cafb6acded557f}{}\index{Team@{Team}!set\+Empates@{set\+Empates}}
+\index{set\+Empates@{set\+Empates}!Team@{Team}}
+\subsubsection[{set\+Empates}]{\setlength{\rightskip}{0pt plus 5cm}void Team\+::set\+Empates (
+\begin{DoxyParamCaption}
+\item[{int}]{value}
+\end{DoxyParamCaption}
+)}\label{class_team_a9dfa2c82540d9321e6cafb6acded557f}
+
+
+References empates.
+
+
+
+Referenced by Dialog\+::take\+Team\+From\+Ui().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_a9dfa2c82540d9321e6cafb6acded557f_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_af21b432f707a656148c6626f105a93cc}{}\index{Team@{Team}!set\+Goles\+A\+Favor@{set\+Goles\+A\+Favor}}
+\index{set\+Goles\+A\+Favor@{set\+Goles\+A\+Favor}!Team@{Team}}
+\subsubsection[{set\+Goles\+A\+Favor}]{\setlength{\rightskip}{0pt plus 5cm}void Team\+::set\+Goles\+A\+Favor (
+\begin{DoxyParamCaption}
+\item[{int}]{value}
+\end{DoxyParamCaption}
+)}\label{class_team_af21b432f707a656148c6626f105a93cc}
+
+
+References goles\+A\+Favor.
+
+
+
+Referenced by Dialog\+::take\+Team\+From\+Ui().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_af21b432f707a656148c6626f105a93cc_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_a68c254ae21bea1353f5398b9858e7ff6}{}\index{Team@{Team}!set\+Goles\+En\+Contra@{set\+Goles\+En\+Contra}}
+\index{set\+Goles\+En\+Contra@{set\+Goles\+En\+Contra}!Team@{Team}}
+\subsubsection[{set\+Goles\+En\+Contra}]{\setlength{\rightskip}{0pt plus 5cm}void Team\+::set\+Goles\+En\+Contra (
+\begin{DoxyParamCaption}
+\item[{int}]{value}
+\end{DoxyParamCaption}
+)}\label{class_team_a68c254ae21bea1353f5398b9858e7ff6}
+
+
+References goles\+En\+Contra.
+
+
+
+Referenced by Dialog\+::take\+Team\+From\+Ui().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_a68c254ae21bea1353f5398b9858e7ff6_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_a4e2bdf61ee9103b54c01bf65a3300bed}{}\index{Team@{Team}!set\+Nombre@{set\+Nombre}}
+\index{set\+Nombre@{set\+Nombre}!Team@{Team}}
+\subsubsection[{set\+Nombre}]{\setlength{\rightskip}{0pt plus 5cm}void Team\+::set\+Nombre (
+\begin{DoxyParamCaption}
+\item[{const char $\ast$}]{value}
+\end{DoxyParamCaption}
+)}\label{class_team_a4e2bdf61ee9103b54c01bf65a3300bed}
+
+
+References M\+A\+X\+\_\+\+N\+A\+M\+E\+\_\+\+S\+I\+Z\+E, and nombre.
+
+
+
+Referenced by Dialog\+::take\+Team\+From\+Ui().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_a4e2bdf61ee9103b54c01bf65a3300bed_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_a43b0095989199cafdbdb1cf87a2eba2f}{}\index{Team@{Team}!set\+Victorias@{set\+Victorias}}
+\index{set\+Victorias@{set\+Victorias}!Team@{Team}}
+\subsubsection[{set\+Victorias}]{\setlength{\rightskip}{0pt plus 5cm}void Team\+::set\+Victorias (
+\begin{DoxyParamCaption}
+\item[{int}]{value}
+\end{DoxyParamCaption}
+)}\label{class_team_a43b0095989199cafdbdb1cf87a2eba2f}
+
+
+References victorias.
+
+
+
+Referenced by Dialog\+::take\+Team\+From\+Ui().
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_a43b0095989199cafdbdb1cf87a2eba2f_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_a1030dce9ad53dc47351a3fa44980b77b}{}\index{Team@{Team}!to\+Std@{to\+Std}}
+\index{to\+Std@{to\+Std}!Team@{Team}}
+\subsubsection[{to\+Std}]{\setlength{\rightskip}{0pt plus 5cm}std\+::string Team\+::to\+Std (
+\begin{DoxyParamCaption}
+{}
+\end{DoxyParamCaption}
+)}\label{class_team_a1030dce9ad53dc47351a3fa44980b77b}
+
+
+References calcula\+Puntos(), derrotas, empates, nombre, and victorias.
+
+
+
+Referenced by Main\+Window\+::load\+Team\+List().
+
+
+
+Here is the call graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=294pt]{d1/d35/class_team_a1030dce9ad53dc47351a3fa44980b77b_cgraph}
+\end{center}
+\end{figure}
+
+
+
+
+Here is the caller graph for this function\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{d1/d35/class_team_a1030dce9ad53dc47351a3fa44980b77b_icgraph}
+\end{center}
+\end{figure}
+
+
+\hypertarget{class_team_a62b8bf4f0af5579461d0667ed5dfda4f}{}\index{Team@{Team}!write\+To\+Binary\+File@{write\+To\+Binary\+File}}
+\index{write\+To\+Binary\+File@{write\+To\+Binary\+File}!Team@{Team}}
+\subsubsection[{write\+To\+Binary\+File}]{\setlength{\rightskip}{0pt plus 5cm}void Team\+::write\+To\+Binary\+File (
+\begin{DoxyParamCaption}
+\item[{std\+::fstream \&}]{f}
+\end{DoxyParamCaption}
+)}\label{class_team_a62b8bf4f0af5579461d0667ed5dfda4f}
+
+
+References derrotas, empates, goles\+A\+Favor, goles\+En\+Contra, nombre, and victorias.
+
+\hypertarget{class_team_ab4c45dc605b73e2e45b99c58b2057a78}{}\index{Team@{Team}!write\+To\+File@{write\+To\+File}}
+\index{write\+To\+File@{write\+To\+File}!Team@{Team}}
+\subsubsection[{write\+To\+File}]{\setlength{\rightskip}{0pt plus 5cm}void Team\+::write\+To\+File (
+\begin{DoxyParamCaption}
+\item[{std\+::fstream \&}]{f}
+\end{DoxyParamCaption}
+)}\label{class_team_ab4c45dc605b73e2e45b99c58b2057a78}
+
+
+References derrotas, empates, goles\+A\+Favor, goles\+En\+Contra, nombre, and victorias.
+
+
+
+\subsection{Member Data Documentation}
+\hypertarget{class_team_a2c6bb859be1056676938805863968dad}{}\index{Team@{Team}!derrotas@{derrotas}}
+\index{derrotas@{derrotas}!Team@{Team}}
+\subsubsection[{derrotas}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::derrotas\hspace{0.3cm}{\ttfamily [private]}}\label{class_team_a2c6bb859be1056676938805863968dad}
+
+
+Referenced by get\+Derrotas(), read\+From\+Binary\+File(), read\+From\+File(), set\+Derrotas(), Team(), to\+Std(), write\+To\+Binary\+File(), and write\+To\+File().
+
+\hypertarget{class_team_af9d642c2765645b9886ce332b0d9f2c8}{}\index{Team@{Team}!empates@{empates}}
+\index{empates@{empates}!Team@{Team}}
+\subsubsection[{empates}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::empates\hspace{0.3cm}{\ttfamily [private]}}\label{class_team_af9d642c2765645b9886ce332b0d9f2c8}
+
+
+Referenced by calcula\+Puntos(), get\+Empates(), read\+From\+Binary\+File(), read\+From\+File(), set\+Empates(), Team(), to\+Std(), write\+To\+Binary\+File(), and write\+To\+File().
+
+\hypertarget{class_team_af84c67ce79cc5a92285739baa6b93e8b}{}\index{Team@{Team}!goles\+A\+Favor@{goles\+A\+Favor}}
+\index{goles\+A\+Favor@{goles\+A\+Favor}!Team@{Team}}
+\subsubsection[{goles\+A\+Favor}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::goles\+A\+Favor\hspace{0.3cm}{\ttfamily [private]}}\label{class_team_af84c67ce79cc5a92285739baa6b93e8b}
+
+
+Referenced by get\+Goles\+A\+Favor(), read\+From\+Binary\+File(), read\+From\+File(), set\+Goles\+A\+Favor(), Team(), write\+To\+Binary\+File(), and write\+To\+File().
+
+\hypertarget{class_team_aa1afdfb306f4207e4cbd79fb56facfbf}{}\index{Team@{Team}!goles\+En\+Contra@{goles\+En\+Contra}}
+\index{goles\+En\+Contra@{goles\+En\+Contra}!Team@{Team}}
+\subsubsection[{goles\+En\+Contra}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::goles\+En\+Contra\hspace{0.3cm}{\ttfamily [private]}}\label{class_team_aa1afdfb306f4207e4cbd79fb56facfbf}
+
+
+Referenced by get\+Goles\+En\+Contra(), read\+From\+Binary\+File(), read\+From\+File(), set\+Goles\+En\+Contra(), Team(), write\+To\+Binary\+File(), and write\+To\+File().
+
+\hypertarget{class_team_a8d210ec74ccdfe830c485eddc6ac76db}{}\index{Team@{Team}!nombre@{nombre}}
+\index{nombre@{nombre}!Team@{Team}}
+\subsubsection[{nombre}]{\setlength{\rightskip}{0pt plus 5cm}char Team\+::nombre\mbox{[}{\bf M\+A\+X\+\_\+\+N\+A\+M\+E\+\_\+\+S\+I\+Z\+E}\mbox{]}\hspace{0.3cm}{\ttfamily [private]}}\label{class_team_a8d210ec74ccdfe830c485eddc6ac76db}
+
+
+Referenced by compare\+Name(), get\+Nombre(), read\+From\+Binary\+File(), read\+From\+File(), set\+Nombre(), to\+Std(), write\+To\+Binary\+File(), and write\+To\+File().
+
+\hypertarget{class_team_ab6444e3430b98ec88a91a841ee7788d8}{}\index{Team@{Team}!victorias@{victorias}}
+\index{victorias@{victorias}!Team@{Team}}
+\subsubsection[{victorias}]{\setlength{\rightskip}{0pt plus 5cm}int Team\+::victorias\hspace{0.3cm}{\ttfamily [private]}}\label{class_team_ab6444e3430b98ec88a91a841ee7788d8}
+
+
+Referenced by calcula\+Puntos(), get\+Victorias(), read\+From\+Binary\+File(), read\+From\+File(), set\+Victorias(), Team(), to\+Std(), write\+To\+Binary\+File(), and write\+To\+File().
+
+
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+\hyperlink{team_8h}{team.\+h}\item 
+\hyperlink{team_8cpp}{team.\+cpp}\end{DoxyCompactItemize}

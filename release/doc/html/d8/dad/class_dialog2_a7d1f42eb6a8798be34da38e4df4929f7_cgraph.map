@@ -1,0 +1,4 @@
+<map id="Dialog2::takePlayerFromUi" name="Dialog2::takePlayerFromUi">
+<area shape="rect" id="node3" href="$d8/d53/class_player.html#aeaa23561cac2c75d1f3cad94915f0835" title="Player::setNGoles" alt="" coords="233,5,361,32"/>
+<area shape="rect" id="node5" href="$d8/d53/class_player.html#a3c26ab31dffaf71b9775459ae00e1735" title="Player::setNombre" alt="" coords="232,56,363,83"/>
+</map>

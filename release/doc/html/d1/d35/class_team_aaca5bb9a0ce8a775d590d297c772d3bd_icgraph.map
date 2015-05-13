@@ -1,0 +1,14 @@
+<map id="Team::calculaPuntos" name="Team::calculaPuntos">
+<area shape="rect" id="node3" href="$d1/d35/class_team.html#aefc53486468ddf341ad1d2ad3e0578d4" title="Team::comparePoints" alt="" coords="197,132,347,159"/>
+<area shape="rect" id="node5" href="$d1/d35/class_team.html#a1030dce9ad53dc47351a3fa44980b77b" title="Team::toStd" alt="" coords="225,183,319,209"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a79e5d5e87b7320205e162f7ba07a12a9" title="loadTeamList Load data from memory to the user interfaz " alt="" coords="395,183,576,209"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#ade64c249edd6ebfab4fc83dbd7d7b334" title="addTeam Open dialog in order to add new teams " alt="" coords="651,5,808,32"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a7b8cd49500ffd80cb3c666750c658f5d" title="deleteTeam Delete selected item... " alt="" coords="644,56,815,83"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a637b22ad7b085a1664384ea3ab8084cd" title="editTeam Edit the selected team " alt="" coords="651,107,808,133"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a671e7e5b0a3a7a3fb1cf44c5c8377952" title="init method " alt="" coords="669,157,790,184"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a288b768c3c21a9171bdc56fe845ece8b" title="openFile Open file slot " alt="" coords="653,208,806,235"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#a963edb5b19f8d39b0c5bbacc0d9ed5d6" title="searchTeam Search some item " alt="" coords="642,259,817,285"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#a32cf6689bc8f4597363cbe8e4e7e5146" title="sortTeamList sort teams by points " alt="" coords="640,309,819,336"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a8e71f51c64a9d0f27b0c7547604357be" title="sortTeamListDesc Reverse sort teams by points " alt="" coords="625,360,834,387"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a8b244be8b7b7db1b08de2a2acb9409db" title="MainWindow constructor. " alt="" coords="883,157,1061,184"/>
+</map>

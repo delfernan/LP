@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['saveall',['saveAll',['../d9/dc6/class_main_window.html#a149085ca2d6cce59ecb59dcbf0892c07',1,'MainWindow']]],
+  ['saveas',['saveAs',['../d9/dc6/class_main_window.html#a7fbef0054cdec7bbbf3c06fb12af473c',1,'MainWindow']]],
+  ['saveplayers',['savePlayers',['../d9/dc6/class_main_window.html#aff0a6c08ba9cb391b4c259d7e1e3e6ee',1,'MainWindow']]],
+  ['search',['SEARCH',['../df/da9/class_dialog.html#ae78164fb050172481b9bc05bdbbdc9b0a3ee13ecddf383e1872ad53f5f1947ef1',1,'Dialog::SEARCH()'],['../d8/dad/class_dialog2.html#a8516d2f5d38e3777d9c6a99c3374159aa9e715c7822a53c88692a844d07be7891',1,'Dialog2::SEARCH()']]],
+  ['searchelename',['searchEleName',['../d1/d34/class_list.html#aa614a359e8399195c71d14067484d3b2',1,'List']]],
+  ['searchplayer',['searchPlayer',['../d8/dad/class_dialog2.html#a4de4b4481a18d1001ac600a4fdcd4256',1,'Dialog2::searchPlayer()'],['../d9/dc6/class_main_window.html#ac529c585e84254f8ea1493aa4e984fff',1,'MainWindow::searchPlayer()']]],
+  ['searchpos',['searchPos',['../d1/d34/class_list.html#a69893c5ca361f9502a0dc1c967612d02',1,'List']]],
+  ['searchteam',['searchTeam',['../df/da9/class_dialog.html#a14e25a37abc03cea2b0aaf7dc91fe857',1,'Dialog::searchTeam()'],['../d9/dc6/class_main_window.html#a963edb5b19f8d39b0c5bbacc0d9ed5d6',1,'MainWindow::searchTeam()']]],
+  ['setderrotas',['setDerrotas',['../d1/d35/class_team.html#a0e8272a4c5127fcd4be5444dd22cda9f',1,'Team']]],
+  ['setempates',['setEmpates',['../d1/d35/class_team.html#a9dfa2c82540d9321e6cafb6acded557f',1,'Team']]],
+  ['setgolesafavor',['setGolesAFavor',['../d1/d35/class_team.html#af21b432f707a656148c6626f105a93cc',1,'Team']]],
+  ['setgolesencontra',['setGolesEnContra',['../d1/d35/class_team.html#a68c254ae21bea1353f5398b9858e7ff6',1,'Team']]],
+  ['setid',['setId',['../df/da9/class_dialog.html#ad8dc7674caf8ad80354371cb055e2d86',1,'Dialog']]],
+  ['setlist',['setList',['../df/da9/class_dialog.html#a49ad60e52f0e52fa4ec27b67964913fa',1,'Dialog::setList()'],['../d8/dad/class_dialog2.html#a15d71b221052d782bfdf156fe4aa7d75',1,'Dialog2::setList()']]],
+  ['setmode',['setMode',['../df/da9/class_dialog.html#adc05cff2da1c925917d2301d730eebd8',1,'Dialog::setMode()'],['../d8/dad/class_dialog2.html#ad11aeeec4bdf19f00fced524be1b4205',1,'Dialog2::setMode()']]],
+  ['setngoles',['setNGoles',['../d8/d53/class_player.html#aeaa23561cac2c75d1f3cad94915f0835',1,'Player']]],
+  ['setnode',['setNode',['../df/da9/class_dialog.html#a3fe34fdf51dce326e10b7b2eef8ae6ea',1,'Dialog::setNode()'],['../d8/dad/class_dialog2.html#afcb469b5706793d4048d621a0e4c3abd',1,'Dialog2::setNode()']]],
+  ['setnombre',['setNombre',['../d8/d53/class_player.html#a3c26ab31dffaf71b9775459ae00e1735',1,'Player::setNombre()'],['../d1/d35/class_team.html#a4e2bdf61ee9103b54c01bf65a3300bed',1,'Team::setNombre()']]],
+  ['setvictorias',['setVictorias',['../d1/d35/class_team.html#a43b0095989199cafdbdb1cf87a2eba2f',1,'Team']]],
+  ['sort',['sort',['../d1/d34/class_list.html#adcdf869b2506e2332052eff47afc8412',1,'List']]],
+  ['sortdesc',['sortDesc',['../d1/d34/class_list.html#a006226544e5e078fdb4207edac1fb154',1,'List']]],
+  ['sortplayerlist',['sortPlayerList',['../d9/dc6/class_main_window.html#ac39f495a110346fa8f5aa152ea92c06d',1,'MainWindow']]],
+  ['sortplayerlistdesc',['sortPlayerListDesc',['../d9/dc6/class_main_window.html#a3c3289fb0c25eb584d7041cd3ddccd43',1,'MainWindow']]],
+  ['sortteamlist',['sortTeamList',['../d9/dc6/class_main_window.html#a32cf6689bc8f4597363cbe8e4e7e5146',1,'MainWindow']]],
+  ['sortteamlistdesc',['sortTeamListDesc',['../d9/dc6/class_main_window.html#a8e71f51c64a9d0f27b0c7547604357be',1,'MainWindow']]]
+];

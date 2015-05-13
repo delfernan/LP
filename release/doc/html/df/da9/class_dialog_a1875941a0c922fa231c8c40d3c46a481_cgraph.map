@@ -1,0 +1,13 @@
+<map id="Dialog::callFunctionTeam" name="Dialog::callFunctionTeam">
+<area shape="rect" id="node3" href="$d1/d34/class_list.html#aa641ba4a8f1792780ae0dc7cd506aeb6" title="List::insertSorted" alt="" coords="243,5,365,32"/>
+<area shape="rect" id="node5" href="$d1/d34/class_list.html#a0a155d92947a2d58f1476658d22fd4c2" title="List::modify" alt="" coords="259,56,349,83"/>
+<area shape="rect" id="node7" href="$df/da9/class_dialog.html#a29ddbbd67ffdca68c35bd2692deef08b" title="Dialog::msgUser" alt="" coords="245,107,363,133"/>
+<area shape="rect" id="node9" href="$d1/d34/class_list.html#aa614a359e8399195c71d14067484d3b2" title="List::searchEleName" alt="" coords="233,157,375,184"/>
+<area shape="rect" id="node11" href="$df/da9/class_dialog.html#a03a550e5b4fa16614d27f8d4e2329e10" title="Dialog::takeTeamFromUi" alt="" coords="221,208,387,235"/>
+<area shape="rect" id="node13" href="$d1/d35/class_team.html#a4e2bdf61ee9103b54c01bf65a3300bed" title="Team::setNombre" alt="" coords="456,81,581,108"/>
+<area shape="rect" id="node15" href="$d1/d35/class_team.html#a43b0095989199cafdbdb1cf87a2eba2f" title="Team::setVictorias" alt="" coords="453,132,584,159"/>
+<area shape="rect" id="node17" href="$d1/d35/class_team.html#a0e8272a4c5127fcd4be5444dd22cda9f" title="Team::setDerrotas" alt="" coords="454,183,583,209"/>
+<area shape="rect" id="node19" href="$d1/d35/class_team.html#a9dfa2c82540d9321e6cafb6acded557f" title="Team::setEmpates" alt="" coords="453,233,585,260"/>
+<area shape="rect" id="node21" href="$d1/d35/class_team.html#af21b432f707a656148c6626f105a93cc" title="Team::setGolesAFavor" alt="" coords="441,284,596,311"/>
+<area shape="rect" id="node23" href="$d1/d35/class_team.html#a68c254ae21bea1353f5398b9858e7ff6" title="Team::setGolesEnContra" alt="" coords="435,335,603,361"/>
+</map>

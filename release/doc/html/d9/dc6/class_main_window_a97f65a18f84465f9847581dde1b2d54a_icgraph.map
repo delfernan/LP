@@ -1,0 +1,14 @@
+<map id="MainWindow::loadPlayerList" name="MainWindow::loadPlayerList">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a7595d83dc20e47d973ccd7b6344367bb" title="addTeam Open dialog in order to add new teams " alt="" coords="267,5,429,32"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a760726cc3c6019db7f8f58648686b03c" title="deleteTeam Delete selected item... " alt="" coords="260,56,436,83"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a22c2cf54c567c2de6ec7bd6f7c79ced8" title="editTeam Edit the selected team " alt="" coords="267,107,429,133"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a149085ca2d6cce59ecb59dcbf0892c07" title="saveAll Save all into data files " alt="" coords="275,157,421,184"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_main_window.html#a7fbef0054cdec7bbbf3c06fb12af473c" title="saveAs Save as... " alt="" coords="275,208,421,235"/>
+<area shape="rect" id="node21" href="$d9/dc6/class_main_window.html#ac529c585e84254f8ea1493aa4e984fff" title="searchTeam Search some item " alt="" coords="258,259,438,285"/>
+<area shape="rect" id="node23" href="$d9/dc6/class_main_window.html#ac39f495a110346fa8f5aa152ea92c06d" title="sortPlayerList sort players by goals " alt="" coords="256,309,440,336"/>
+<area shape="rect" id="node25" href="$d9/dc6/class_main_window.html#a3c3289fb0c25eb584d7041cd3ddccd43" title="sortPlayerListDesc Reverse sort player by goals " alt="" coords="241,360,455,387"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a7b8cd49500ffd80cb3c666750c658f5d" title="deleteTeam Delete selected item... " alt="" coords="507,81,677,108"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#ade64c249edd6ebfab4fc83dbd7d7b334" title="addTeam Open dialog in order to add new teams " alt="" coords="513,132,671,159"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a637b22ad7b085a1664384ea3ab8084cd" title="editTeam Edit the selected team " alt="" coords="513,183,671,209"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#a963edb5b19f8d39b0c5bbacc0d9ed5d6" title="searchTeam Search some item " alt="" coords="505,233,679,260"/>
+</map>

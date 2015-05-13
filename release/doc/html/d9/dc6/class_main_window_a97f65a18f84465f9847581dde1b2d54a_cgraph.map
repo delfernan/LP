@@ -1,0 +1,11 @@
+<map id="MainWindow::loadPlayerList" name="MainWindow::loadPlayerList">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#ace14793517d02cd5d322190f6540b0ba" title="cleanPlayerList delete actual jugadores_ list " alt="" coords="241,56,434,83"/>
+<area shape="rect" id="node7" href="$d1/d34/class_list.html#a73f8b1d313382daffeeeed552f42da2f" title="List::isEmpty" alt="" coords="483,5,581,32"/>
+<area shape="rect" id="node9" href="$d1/d34/class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf" title="List::length" alt="" coords="489,107,575,133"/>
+<area shape="rect" id="node11" href="$d1/d35/class_team.html#acd3112602057d3c2df5dc97b7edf23db" title="Team::getNombre" alt="" coords="275,157,400,184"/>
+<area shape="rect" id="node15" href="$d1/d34/class_list.html#ac09f38e751968bc57c81365b8e13b0f9" title="List::readFromBinaryFile2" alt="" coords="252,208,423,235"/>
+<area shape="rect" id="node17" href="$d1/d34/class_list.html#a3777550ab6dc21d161d5ba22424a1ec3" title="List::readFromFile" alt="" coords="274,259,401,285"/>
+<area shape="rect" id="node19" href="$d1/d34/class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="281,309,394,336"/>
+<area shape="rect" id="node21" href="$d8/d53/class_player.html#a6d3beea7580a4b7b4c8b80feac3351d3" title="Player::toStd" alt="" coords="288,360,387,387"/>
+<area shape="rect" id="node5" href="$d1/d34/class_list.html#a7b33f41a6fd235d8e4e61e3aa7ffad71" title="List::erase" alt="" coords="491,56,573,83"/>
+</map>

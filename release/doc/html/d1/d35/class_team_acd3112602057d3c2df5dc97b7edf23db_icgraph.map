@@ -1,0 +1,20 @@
+<map id="Team::getNombre" name="Team::getNombre">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a843575f69edeacfeecdaa5a3a4ef31fe" title="deletePlayerFile delete actual player&#39;s file " alt="" coords="179,55,376,82"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#a97f65a18f84465f9847581dde1b2d54a" title="loadList Load player data from memory to the user interfaz " alt="" coords="184,233,371,259"/>
+<area shape="rect" id="node24" href="$d9/dc6/class_main_window.html#a7fbef0054cdec7bbbf3c06fb12af473c" title="saveAs Save as... " alt="" coords="459,385,605,411"/>
+<area shape="rect" id="node32" href="$df/da9/class_dialog.html#a6f6564b3dab010fadb064d1bb46ac37c" title="Dialog::loadTeam" alt="" coords="216,410,339,437"/>
+<area shape="rect" id="node40" href="$d9/dc6/class_main_window.html#aff0a6c08ba9cb391b4c259d7e1e3e6ee" title="savePlayers save players to the selected team " alt="" coords="190,182,365,209"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a7b8cd49500ffd80cb3c666750c658f5d" title="deleteTeam Delete selected item... " alt="" coords="691,55,861,82"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a7595d83dc20e47d973ccd7b6344367bb" title="addTeam Open dialog in order to add new teams " alt="" coords="451,81,613,107"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#a760726cc3c6019db7f8f58648686b03c" title="deleteTeam Delete selected item... " alt="" coords="444,131,620,158"/>
+<area shape="rect" id="node13" href="$d9/dc6/class_main_window.html#a22c2cf54c567c2de6ec7bd6f7c79ced8" title="editTeam Edit the selected team " alt="" coords="451,182,613,209"/>
+<area shape="rect" id="node15" href="$d9/dc6/class_main_window.html#a149085ca2d6cce59ecb59dcbf0892c07" title="saveAll Save all into data files " alt="" coords="459,233,605,259"/>
+<area shape="rect" id="node26" href="$d9/dc6/class_main_window.html#ac529c585e84254f8ea1493aa4e984fff" title="searchTeam Search some item " alt="" coords="442,283,622,310"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#ac39f495a110346fa8f5aa152ea92c06d" title="sortPlayerList sort players by goals " alt="" coords="440,334,624,361"/>
+<area shape="rect" id="node30" href="$d9/dc6/class_main_window.html#a3c3289fb0c25eb584d7041cd3ddccd43" title="sortPlayerListDesc Reverse sort player by goals " alt="" coords="425,30,639,57"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_main_window.html#ade64c249edd6ebfab4fc83dbd7d7b334" title="addTeam Open dialog in order to add new teams " alt="" coords="697,258,855,285"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_main_window.html#a637b22ad7b085a1664384ea3ab8084cd" title="editTeam Edit the selected team " alt="" coords="697,359,855,386"/>
+<area shape="rect" id="node22" href="$d9/dc6/class_main_window.html#a963edb5b19f8d39b0c5bbacc0d9ed5d6" title="searchTeam Search some item " alt="" coords="689,207,863,234"/>
+<area shape="rect" id="node34" href="$df/da9/class_dialog.html#a3fe34fdf51dce326e10b7b2eef8ae6ea" title="Dialog::setNode" alt="" coords="475,435,589,462"/>
+<area shape="rect" id="node37" href="$df/da9/class_dialog.html#a14e25a37abc03cea2b0aaf7dc91fe857" title="Dialog::searchTeam" alt="" coords="707,435,845,462"/>
+</map>

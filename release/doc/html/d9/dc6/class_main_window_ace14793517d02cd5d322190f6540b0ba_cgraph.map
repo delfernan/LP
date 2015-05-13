@@ -1,0 +1,5 @@
+<map id="MainWindow::cleanPlayerList" name="MainWindow::cleanPlayerList">
+<area shape="rect" id="node3" href="$d1/d34/class_list.html#a7b33f41a6fd235d8e4e61e3aa7ffad71" title="List::erase" alt="" coords="256,5,339,32"/>
+<area shape="rect" id="node5" href="$d1/d34/class_list.html#a73f8b1d313382daffeeeed552f42da2f" title="List::isEmpty" alt="" coords="248,56,347,83"/>
+<area shape="rect" id="node7" href="$d1/d34/class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf" title="List::length" alt="" coords="254,107,341,133"/>
+</map>

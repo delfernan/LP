@@ -1,0 +1,7 @@
+<map id="MainWindow::savePlayers" name="MainWindow::savePlayers">
+<area shape="rect" id="node3" href="$d1/d35/class_team.html#acd3112602057d3c2df5dc97b7edf23db" title="Team::getNombre" alt="" coords="245,5,371,32"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a9474f6768838e45603392694ae2c3913" title="General messages pop up. " alt="" coords="230,56,386,83"/>
+<area shape="rect" id="node7" href="$d1/d34/class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="251,107,365,133"/>
+<area shape="rect" id="node9" href="$d1/d34/class_list.html#a68ee91ea904d2c27f7a0d72e5bcfc841" title="List::writeToBinaryFile2" alt="" coords="229,157,387,184"/>
+<area shape="rect" id="node11" href="$d1/d34/class_list.html#a7f7e47c88bc1aa43f6b5c5d3bc0ae534" title="List::writeToFile" alt="" coords="251,208,365,235"/>
+</map>

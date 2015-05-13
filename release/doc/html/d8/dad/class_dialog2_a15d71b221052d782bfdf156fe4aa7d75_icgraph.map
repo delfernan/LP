@@ -1,0 +1,5 @@
+<map id="Dialog2::setList" name="Dialog2::setList">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a7595d83dc20e47d973ccd7b6344367bb" title="addTeam Open dialog in order to add new teams " alt="" coords="175,5,337,32"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a22c2cf54c567c2de6ec7bd6f7c79ced8" title="editTeam Edit the selected team " alt="" coords="175,56,337,83"/>
+<area shape="rect" id="node7" href="$d9/dc6/class_main_window.html#ac529c585e84254f8ea1493aa4e984fff" title="searchTeam Search some item " alt="" coords="166,107,346,133"/>
+</map>

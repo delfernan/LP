@@ -22,7 +22,7 @@ AppUpdatesURL={#MyAppURL}
 DefaultDirName={pf}\{#MyAppName}
 DefaultGroupName={#MyAppName}
 AllowNoIcons=yes
-LicenseFile=D:\UEM\Clases\1_LaboratorioProgramacion\2014\EjemplosQT\githubLP\LP\LICENSE-ECL-2.txt
+LicenseFile=release\LICENSE-ECL-2.txt
 OutputBaseFilename=setup
 Compression=lzma
 SolidCompression=yes
@@ -58,10 +58,10 @@ Source: "release\Qt5Core.dll"; DestDir: "{app}"; Components: program; Flags: ign
 Source: "release\Qt5Gui.dll"; DestDir: "{app}"; Components: program; Flags: ignoreversion
 Source: "release\Qt5Widgets.dll"; DestDir: "{app}"; Components: program; Flags: ignoreversion
 Source: "release\platforms\*"; DestDir: "{app}\platforms"; Components: program; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "doc\*"; DestDir: "{app}\doc"; Components: doc; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "data\*"; DestDir: "{app}\data"; Components: data; Flags: ignoreversion recursesubdirs createallsubdirs
-Source: "LICENSE*"; DestDir: "{app}"; Components: license; Flags: ignoreversion recursesubdirs createallsubdirs isreadme
-Source: "*.cpp;*.h"; DestDir: "{app}\source"; Components: source; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "release\doc\*"; DestDir: "{app}\doc"; Components: doc; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "release\data\*"; DestDir: "{app}\data"; Components: data; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: "release\LICENSE-ECL-2.txt"; DestDir: "{app}"; Components: license; Flags: ignoreversion recursesubdirs createallsubdirs isreadme
+Source: "release\source\*"; DestDir: "{app}\source"; Components: source; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
 
 [Icons]

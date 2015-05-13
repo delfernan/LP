@@ -1,0 +1,10 @@
+<map id="MainWindow::sortTeamListDesc" name="MainWindow::sortTeamListDesc">
+<area shape="rect" id="node3" href="$d1/d34/class_list.html#a73f8b1d313382daffeeeed552f42da2f" title="List::isEmpty" alt="" coords="501,5,600,32"/>
+<area shape="rect" id="node5" href="$d9/dc6/class_main_window.html#a79e5d5e87b7320205e162f7ba07a12a9" title="loadTeamList Load data from memory to the user interfaz " alt="" coords="264,56,445,83"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_main_window.html#a9474f6768838e45603392694ae2c3913" title="General messages pop up. " alt="" coords="277,107,433,133"/>
+<area shape="rect" id="node18" href="$d1/d34/class_list.html#a006226544e5e078fdb4207edac1fb154" title="List::sortDesc" alt="" coords="303,157,406,184"/>
+<area shape="rect" id="node8" href="$d1/d34/class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf" title="List::length" alt="" coords="507,56,594,83"/>
+<area shape="rect" id="node10" href="$d1/d34/class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="494,107,607,133"/>
+<area shape="rect" id="node12" href="$d1/d35/class_team.html#a1030dce9ad53dc47351a3fa44980b77b" title="Team::toStd" alt="" coords="504,157,597,184"/>
+<area shape="rect" id="node14" href="$d1/d35/class_team.html#aaca5bb9a0ce8a775d590d297c772d3bd" title="Team::calculaPuntos" alt="" coords="656,157,800,184"/>
+</map>

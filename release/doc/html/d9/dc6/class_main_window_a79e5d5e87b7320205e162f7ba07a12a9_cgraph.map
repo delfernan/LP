@@ -1,0 +1,7 @@
+<map id="MainWindow::loadTeamList" name="MainWindow::loadTeamList">
+<area shape="rect" id="node3" href="$d1/d34/class_list.html#a73f8b1d313382daffeeeed552f42da2f" title="List::isEmpty" alt="" coords="243,5,341,32"/>
+<area shape="rect" id="node5" href="$d1/d34/class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf" title="List::length" alt="" coords="249,56,335,83"/>
+<area shape="rect" id="node7" href="$d1/d34/class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="235,107,349,133"/>
+<area shape="rect" id="node9" href="$d1/d35/class_team.html#a1030dce9ad53dc47351a3fa44980b77b" title="Team::toStd" alt="" coords="245,157,339,184"/>
+<area shape="rect" id="node11" href="$d1/d35/class_team.html#aaca5bb9a0ce8a775d590d297c772d3bd" title="Team::calculaPuntos" alt="" coords="397,157,541,184"/>
+</map>

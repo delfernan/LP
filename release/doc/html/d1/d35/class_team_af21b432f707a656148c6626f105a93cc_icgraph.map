@@ -1,0 +1,5 @@
+<map id="Team::setGolesAFavor" name="Team::setGolesAFavor">
+<area shape="rect" id="node3" href="$df/da9/class_dialog.html#a03a550e5b4fa16614d27f8d4e2329e10" title="Dialog::takeTeamFromUi" alt="" coords="208,31,373,57"/>
+<area shape="rect" id="node5" href="$df/da9/class_dialog.html#a1875941a0c922fa231c8c40d3c46a481" title="Dialog::callFunctionTeam" alt="" coords="421,5,589,32"/>
+<area shape="rect" id="node7" href="$df/da9/class_dialog.html#a14e25a37abc03cea2b0aaf7dc91fe857" title="Dialog::searchTeam" alt="" coords="437,56,574,83"/>
+</map>

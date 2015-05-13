@@ -1,0 +1,11 @@
+<map id="MainWindow::MainWindow" name="MainWindow::MainWindow">
+<area shape="rect" id="node3" href="$d9/dc6/class_main_window.html#a671e7e5b0a3a7a3fb1cf44c5c8377952" title="init method " alt="" coords="233,56,354,83"/>
+<area shape="rect" id="node5" href="$d1/d34/class_list.html#ac09f38e751968bc57c81365b8e13b0f9" title="List::readFromBinaryFile2" alt="" coords="408,5,579,32"/>
+<area shape="rect" id="node7" href="$d1/d34/class_list.html#a3777550ab6dc21d161d5ba22424a1ec3" title="List::readFromFile" alt="" coords="430,56,557,83"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a79e5d5e87b7320205e162f7ba07a12a9" title="loadTeamList Load data from memory to the user interfaz " alt="" coords="403,107,584,133"/>
+<area shape="rect" id="node11" href="$d1/d34/class_list.html#a73f8b1d313382daffeeeed552f42da2f" title="List::isEmpty" alt="" coords="640,31,739,57"/>
+<area shape="rect" id="node13" href="$d1/d34/class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf" title="List::length" alt="" coords="646,81,733,108"/>
+<area shape="rect" id="node15" href="$d1/d34/class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="633,132,746,159"/>
+<area shape="rect" id="node17" href="$d1/d35/class_team.html#a1030dce9ad53dc47351a3fa44980b77b" title="Team::toStd" alt="" coords="643,183,736,209"/>
+<area shape="rect" id="node19" href="$d1/d35/class_team.html#aaca5bb9a0ce8a775d590d297c772d3bd" title="Team::calculaPuntos" alt="" coords="795,183,939,209"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="MainWindow::saveAs" name="MainWindow::saveAs">
+<area shape="rect" id="node3" href="$d1/d35/class_team.html#acd3112602057d3c2df5dc97b7edf23db" title="Team::getNombre" alt="" coords="469,36,595,63"/>
+<area shape="rect" id="node5" href="$d1/d34/class_list.html#a73f8b1d313382daffeeeed552f42da2f" title="List::isEmpty" alt="" coords="677,87,776,114"/>
+<area shape="rect" id="node7" href="$d1/d34/class_list.html#a68cc26f03567b3f2444ca491d0cbcaaf" title="List::length" alt="" coords="683,340,770,367"/>
+<area shape="rect" id="node9" href="$d9/dc6/class_main_window.html#a97f65a18f84465f9847581dde1b2d54a" title="loadList Load player data from memory to the user interfaz " alt="" coords="200,239,387,266"/>
+<area shape="rect" id="node24" href="$d1/d34/class_list.html#a69893c5ca361f9502a0dc1c967612d02" title="List::searchPos" alt="" coords="475,391,589,418"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_main_window.html#a9474f6768838e45603392694ae2c3913" title="General messages pop up. " alt="" coords="215,492,371,519"/>
+<area shape="rect" id="node31" href="$d1/d34/class_list.html#a68ee91ea904d2c27f7a0d72e5bcfc841" title="List::writeToBinaryFile2" alt="" coords="215,543,372,570"/>
+<area shape="rect" id="node33" href="$d1/d34/class_list.html#a7f7e47c88bc1aa43f6b5c5d3bc0ae534" title="List::writeToFile" alt="" coords="237,594,350,620"/>
+<area shape="rect" id="node11" href="$d9/dc6/class_main_window.html#ace14793517d02cd5d322190f6540b0ba" title="cleanPlayerList delete actual jugadores_ list " alt="" coords="435,290,629,316"/>
+<area shape="rect" id="node20" href="$d1/d34/class_list.html#ac09f38e751968bc57c81365b8e13b0f9" title="List::readFromBinaryFile2" alt="" coords="447,138,617,164"/>
+<area shape="rect" id="node22" href="$d1/d34/class_list.html#a3777550ab6dc21d161d5ba22424a1ec3" title="List::readFromFile" alt="" coords="469,188,595,215"/>
+<area shape="rect" id="node26" href="$d8/d53/class_player.html#a6d3beea7580a4b7b4c8b80feac3351d3" title="Player::toStd" alt="" coords="483,239,581,266"/>
+<area shape="rect" id="node13" href="$d1/d34/class_list.html#a7b33f41a6fd235d8e4e61e3aa7ffad71" title="List::erase" alt="" coords="685,290,768,316"/>
+</map>
